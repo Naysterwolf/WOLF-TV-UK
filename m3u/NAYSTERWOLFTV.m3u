@@ -1,0 +1,26 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-shift=-1 tvg-id="BBC1" tvg-logo="bbc_one.png" group-title="UK",[COLOR aqua][B][I] BBC One [/I][/B][/COLOR]
+http://llnw.live.simplestream.com/mediaexcel01/channel01/3/prog_index.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="BBC2" tvg-logo="bbc_two.png" group-title="UK",[COLOR aqua][B][I] BBC Two [/I][/B][/COLOR]
+http://llnw.live.simplestream.com/mediaexcel01/channel02/3/prog_index.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="BBC3" tvg-logo="bbc3.png" group-title="UK",[COLOR aqua][B][I] BBC Three [/I][/B][/COLOR]
+http://llnw.live.simplestream.com/mediaexcel01/channel06/3/prog_index.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="BBC4" tvg-logo="bbc4.png" group-title="UK",[COLOR aqua][B][I] BBC Four [/I][/B][/COLOR]
+http://37.220.29.186:8000/bbc4/bbc4/index.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="CBeebies" tvg-logo="cbbc.png" group-title="UK",[COLOR aqua][B][I] CBeebies [/I][/B][/COLOR]
+http://llnw.live.simplestream.com/coder7/coder.channels.channel4/hls/3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="BBC Alba" tvg-logo="bbcalba.png" group-title="UK",[COLOR aqua][B][I] BBC Alba [/I][/B][/COLOR]
+http://llnw.live.simplestream.com/coder10/coder.channels.channel19/hls/3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="4seven" tvg-logo="4seven.png" group-title="UK",[COLOR aqua][B][I] 4-Seven [/I][/B][/COLOR]
+http://llnw.live.simplestream.com/coder8/coder.channels.channel6/hls/3/playlist.m3u8
+
+#EXTINF:-1 tvg-shift=-1 tvg-id="Channel 4 HD" tvg-logo="channel4.png" group-title="UK",[COLOR aqua][B][I] Channel 4 [/I][/B][/COLOR]
+http://llnw.live.simplestream.com/mediaexcel01/channel04/3/prog_index.m3u8
+
