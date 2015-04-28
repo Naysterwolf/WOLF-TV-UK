@@ -24,3 +24,1426 @@ http://llnw.live.simplestream.com/coder8/coder.channels.channel6/hls/3/playlist.
 #EXTINF:-1 tvg-shift=-1 tvg-id="Channel 4 HD" tvg-logo="channel4.png" group-title="UK",[COLOR aqua][B][I] Channel 4 [/I][/B][/COLOR]
 http://llnw.live.simplestream.com/mediaexcel01/channel04/3/prog_index.m3u8
 
+#EXTINF:-1,BBC Parliament HD
+http://vs-hds-uk-live.edgesuite.net/pool_1/live/bbc_parliament/bbc_parliament.isml/bbc_parliament-audio_2%3D96000-video%3D1374000.m3u8
+#?EXTINF?:0,Beinsport 1HD english
+rtmp://180.250.29.12:1935/jhos/beib1_5
+
+#EXTINF:0,Beinsport 2HD english
+rtmp://180.250.29.12:1935/jhos/beib2_5
+
+#EXTINF:0,PremierLeague Channel uk HD
+rtmp://180.250.29.12:1935/jhos/beib3_5
+Variations Bein:
+
+#EXTINF:-1,Beinsport 1HD
+rtmp://180.250.29.12:1935/jhos/beib1_5?byBHFanaticos
+
+#EXTINF:-1,Beinsport 1SD 1
+rtmp://180.250.29.12:1935/jhos/beib1_1?byBHFanaticos
+
+#EXTINF:-1,Beinsport 1SD 2
+rtmp://180.250.29.12:1935/jhos/beib1_2?byBHFanaticos
+
+#EXTINF:-1,Beinsport 1SD 3
+rtmp://180.250.29.12:1935/jhos/beib1_3?byBHFanaticos
+
+#EXTINF:-1,Beinsport 1SD 4
+rtmp://180.250.29.12:1935/jhos/beib1_4?byBHFanaticos
+
+#EXTINF:-1,Beinsport 2HD
+rtmp://180.250.29.12:1935/jhos/beib2_5?byBHFanaticos
+
+#EXTINF:-1,Beinsport 2SD 1
+rtmp://180.250.29.12:1935/jhos/beib2_1?byBHFanaticos
+
+#EXTINF:-1,Beinsport 2SD 2
+rtmp://180.250.29.12:1935/jhos/beib2_2?byBHFanaticos
+
+#EXTINF:-1,Beinsport 2SD 3
+rtmp://180.250.29.12:1935/jhos/beib2_3?byBHFanaticos
+
+#EXTINF:-1,Beinsport 2SD 4
+rtmp://180.250.29.12:1935/jhos/beib2_4?byBHFanaticos
+
+#EXTINF:-1,Beinsport 3HD
+rtmp://180.250.29.12:1935/jhos/beib3_5?byBHFanaticos
+
+#EXTINF:-1,Beinsport 3SD 1
+rtmp://180.250.29.12:1935/jhos/beib3_1?byBHFanaticos
+
+#EXTINF:-1,Beinsport 3SD 2
+rtmp://180.250.29.12:1935/jhos/beib3_2?byBHFanaticos
+
+#EXTINF:-1,Beinsport 3SD 3
+rtmp://180.250.29.12:1935/jhos/beib3_3?byBHFanaticos
+
+#EXTINF:-1,Beinsport 3SD 4
+rtmp://180.250.29.12:1935/jhos/beib3_4?byBHFanaticos
+
+#EXTINF:-1,beIN Sport 5 (arabic)mark Fedel
+http://hls01-06.az.myvideo.az/…/l…/sport5/sport5/sport5.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Sky Sports 1" tvg-logo="http://www.smspi.co.uk/sky/picons/skysports1.png" group-title="Sports", Sky Sports 1
+HTTP://109.123.70.48/hls/channel1-sd.m3u8?s=MBXrf
+
+#EXTINF:-1 tvg-id="Sky Sports 2" tvg-logo="http://www.smspi.co.uk/sky/picons/skysports2.png" group-title="Sports", Sky Sports 2
+HTTP://109.123.70.48/hls/channel2.m3u8?s=MBXrf
+
+#EXTINF:-1 tvg-id="Sky Sports 3" tvg-logo="http://www.smspi.co.uk/sky/picons/skysports3.png" group-title="Sports", Sky Sports 3
+HTTP://109.123.70.48/hls/channel3.m3u8?s=MBXrf
+
+#EXTINF:-1 tvg-id="Sky Sports 4" tvg-logo="http://www.smspi.co.uk/sky/picons/skysports4.png" group-title="Sports", Sky Sports 4
+HTTP://109.123.70.48/hls/channel4.m3u8?s=MBXrf
+
+#EXTINF:-1 tvg-id="Sky Sports 5" tvg-logo="http://www.smspi.co.uk/sky/picons/skysports5.png" group-title="Sports", Sky Sports 5
+HTTP://109.123.70.48/hls/channel7.m3u8?s=MBXrf
+
+#EXTINF:-1 tvg-id="Sky Sports News" tvg-logo="http://www.smspi.co.uk/sky/picons/skysports5.png" group-title="Sports", Sky Sports News
+HTTP://109.123.70.48/hls/channel5.m3u8?s=MBXrf
+
+#EXTINF:-1 tvg-id="BT Sports 1" tvg-logo="http://www.smspi.co.uk/sky/picons/btsports1.png" group-title="Sports", BT Sports 1
+HTTP://109.123.70.48/hls/channel6.m3u8?s=MBXrf
+
+#EXTINF:-1 tvg-id="BT Sports 2" tvg-logo="http://www.smspi.co.uk/sky/picons/btsports2.png" group-title="Sports", BT Sports 2
+HTTP://109.123.70.48/hls/channel11.m3u8?s=MBXrf
+
+#EXTINF:-1 tvg-id="Premier Sports" tvg-logo="http://www.smspi.co.uk/sky/picons/premiersports.png" group-title="Sports", Premier Sports
+HTTP://109.123.70.48/hls/channel8.m3u8?s=MBXrf
+
+#EXTINF:-1 tvg-id="Box Nation" tvg-logo="http://www.smspi.co.uk/sky/picons/boxnation.png" group-title="Sports", Box Nation
+HTTP://109.123.70.48/hls/channel9.m3u8?s=MBXrf
+
+#EXTINF:-1 tvg-id="RACINGUK" tvg-logo="http://www.smspi.co.uk/sky/picons/boxnation.png" group-title="Sports", RACINGUK
+HTTP://109.123.70.48/hls/channel10.m3u8?s=MBXrf
+
+#EXTINF:-1 tvg-id="EPSNHD" tvg-logo="http://www.smspi.co.uk/sky/picons/boxnation.png" group-title="Sports", EPSNHD
+HTTP://109.123.70.48/hls/channel12.m3u8?s=MBXrf
+
+#EXTM3U
+
+#EXTINF:0,Bein Sports USA
+http://sportztv.net:80/live/SportsTv/live/95.ts
+
+#EXTINF:0,Bein Sports 1 FR
+http://sportztv.net:80/live/SportsTv/live/31.ts
+
+#EXTINF:0,Bein Sports 2 FR
+http://sportztv.net:80/live/SportsTv/live/36.ts
+
+#EXTINF:0,Bein Sports 3 FR
+http://sportztv.net:80/live/SportsTv/live/32.ts
+
+#EXTINF:0,Bein Max 4
+http://sportztv.net:80/live/SportsTv/live/93.ts
+
+#EXTINF:0,Bein Max 5
+http://sportztv.net:80/live/SportsTv/live/94.ts
+
+#EXTINF:0,Bein Sports 1 HD
+http://sportztv.net:80/live/SportsTv/live/16.ts
+
+#EXTINF:0,Bein Sports 2 HD
+http://sportztv.net:80/live/SportsTv/live/17.ts
+
+#EXTINF:0,Bein Sports 3 HD
+http://sportztv.net:80/live/SportsTv/live/18.ts
+
+#EXTINF:0,Bein Sports 4 HD
+http://sportztv.net:80/live/SportsTv/live/19.ts
+
+#EXTINF:0,Bein Sports 5 HD
+http://sportztv.net:80/live/SportsTv/live/20.ts
+
+#EXTINF:0,Bein Sports 6 HD
+http://sportztv.net:80/live/SportsTv/live/21.ts
+
+#EXTINF:0,Bein Sports 7 HD
+http://sportztv.net:80/live/SportsTv/live/22.ts
+
+#EXTINF:0,Bein Sports 8 HD
+http://sportztv.net:80/live/SportsTv/live/23.ts
+
+#EXTINF:0,Bein Sports 9 HD
+http://sportztv.net:80/live/SportsTv/live/24.ts
+
+#EXTINF:0,Bein Sports 10 HD
+http://sportztv.net:80/live/SportsTv/live/25.ts
+
+#EXTINF:0,Bein Sports 11 HD
+http://sportztv.net:80/live/SportsTv/live/247.ts
+
+#EXTINF:0,Bein Sports 12 HD
+http://sportztv.net:80/live/SportsTv/live/248.ts
+
+#EXTINF:0,Bein Sports 1 LQ Backup
+http://sportztv.net:80/live/SportsTv/live/114.ts
+
+#EXTINF:0,Bein Sports 2 LQ Backup
+http://sportztv.net:80/live/SportsTv/live/115.ts
+
+#EXTINF:0,Bein Sports 3 LQ Backup
+http://sportztv.net:80/live/SportsTv/live/116.ts
+
+#EXTINF:0,Bein Sports 4 LQ Backup
+http://sportztv.net:80/live/SportsTv/live/117.ts
+
+#EXTINF:0,Bein Sports 5 LQ Backup
+http://sportztv.net:80/live/SportsTv/live/118.ts
+
+#EXTINF:0,Bein Sports 6 LQ Backup
+http://sportztv.net:80/live/SportsTv/live/119.ts
+
+#EXTINF:0,Bein Sports 7 LQ Backup
+http://sportztv.net:80/live/SportsTv/live/120.ts
+
+#EXTINF:0,Bein Sports 8 LQ Backup
+http://sportztv.net:80/live/SportsTv/live/121.ts
+
+#EXTINF:0,Bein Sports 9 LQ Backup
+http://sportztv.net:80/live/SportsTv/live/122.ts
+
+#EXTINF:0,Bein Sports 10 LQ Backup
+http://sportztv.net:80/live/SportsTv/live/123.ts
+
+#EXTINF:0,Bein Sports 11 LQ Backup
+http://sportztv.net:80/live/SportsTv/live/124.ts
+
+#EXTINF:0,Bein Sports 12 LQ Backup
+http://sportztv.net:80/live/SportsTv/live/125.ts
+
+#EXTINF:0,Arena Sports 1 SD  Serbian
+http://sportztv.net:80/live/SportsTv/live/54.ts
+
+#EXTINF:0,Arena Sports 2 SD Serbian
+http://sportztv.net:80/live/SportsTv/live/55.ts
+
+#EXTINF:0,Arena Sports 3 SD Serbian
+http://sportztv.net:80/live/SportsTv/live/56.ts
+
+#EXTINF:0,Arena Sports 4 SD Serbian
+http://sportztv.net:80/live/SportsTv/live/57.ts
+
+#EXTINF:0,BBC 1 UK
+http://sportztv.net:80/live/SportsTv/live/101.ts
+
+#EXTINF:0,BBC 2 UK
+http://sportztv.net:80/live/SportsTv/live/102.ts
+
+#EXTINF:0,BBC 3 UK
+http://sportztv.net:80/live/SportsTv/live/100.ts
+
+#EXTINF:0,BBC 4 UK
+http://sportztv.net:80/live/SportsTv/live/99.ts
+
+#EXTINF:0,Box Nation
+http://sportztv.net:80/live/SportsTv/live/15.ts
+
+#EXTINF:0,Bt Sports 1
+http://sportztv.net:80/live/SportsTv/live/10.ts
+
+#EXTINF:0,Bt Sports 1 (Backup)
+http://sportztv.net:80/live/SportsTv/live/147.ts
+
+#EXTINF:0,Bt Sports 2
+http://sportztv.net:80/live/SportsTv/live/11.ts
+
+#EXTINF:0,Bt Sports 2 (Backup)
+http://sportztv.net:80/live/SportsTv/live/148.ts
+
+#EXTINF:0,ESPN UK
+http://sportztv.net:80/live/SportsTv/live/14.ts
+
+#EXTINF:0,ESPN USA
+http://sportztv.net:80/live/SportsTv/live/48.ts
+
+#EXTINF:0,ESPN 2 USA
+http://sportztv.net:80/live/SportsTv/live/49.ts
+
+#EXTINF:0,Eurosport 1
+http://sportztv.net:80/live/SportsTv/live/12.ts
+
+#EXTINF:0,Eurosport 2
+http://sportztv.net:80/live/SportsTv/live/13.ts
+
+#EXTINF:0,ITV 1 UK
+http://sportztv.net:80/live/SportsTv/live/103.ts
+
+#EXTINF:0,ITV 2 UK
+http://sportztv.net:80/live/SportsTv/live/104.ts
+
+#EXTINF:0,ITV 3 UK
+http://sportztv.net:80/live/SportsTv/live/105.ts
+
+#EXTINF:0,ITV 4 UK
+http://sportztv.net:80/live/SportsTv/live/106.ts
+
+#EXTINF:0,Premier Sports
+http://sportztv.net:80/live/SportsTv/live/9.ts
+
+#EXTINF:0,Premier Sports (Backup)
+http://sportztv.net:80/live/SportsTv/live/149.ts
+
+#EXTINF:0,Setanta Ireland
+http://sportztv.net:80/live/SportsTv/live/8.ts
+
+#EXTINF:0,Sky Sport 1 HD Deutch Germany
+http://sportztv.net:80/live/SportsTv/live/88.ts
+
+#EXTINF:0,Sky Sport 2 HD Deutch Germany
+http://sportztv.net:80/live/SportsTv/live/89.ts
+
+#EXTINF:0,Sky Bundesliga HD1
+http://sportztv.net:80/live/SportsTv/live/38.ts
+
+#EXTINF:0,Sky Bundesliga HD2
+http://sportztv.net:80/live/SportsTv/live/39.ts
+
+#EXTINF:0,Sky Bundesliga HD3
+http://sportztv.net:80/live/SportsTv/live/40.ts
+
+#EXTINF:0,Sky Bundesliga HD4
+http://sportztv.net:80/live/SportsTv/live/41.ts
+
+#EXTINF:0,Sky Bundesliga HD5
+http://sportztv.net:80/live/SportsTv/live/42.ts
+
+#EXTINF:0,Sky Movie (Action&Adventure)
+http://sportztv.net:80/live/SportsTv/live/110.ts
+
+#EXTINF:0,Sky Movie (Comedy)
+http://sportztv.net:80/live/SportsTv/live/108.ts
+
+#EXTINF:0,Sky Movie (Crime&Thriller)
+http://sportztv.net:80/live/SportsTv/live/113.ts
+
+#EXTINF:0,Sky Movie (Drama)
+http://sportztv.net:80/live/SportsTv/live/107.ts
+
+#EXTINF:0,Sky Movie (Family)
+http://sportztv.net:80/live/SportsTv/live/65.ts
+
+#EXTINF:0,Sky Movie (Modern Greats)
+http://sportztv.net:80/live/SportsTv/live/109.ts
+
+#EXTINF:0,Sky Movie (Premiere)
+http://sportztv.net:80/live/SportsTv/live/111.ts
+
+#EXTINF:0,Sky Movie (SciFi&Horror)
+http://sportztv.net:80/live/SportsTv/live/112.ts
+
+#EXTINF:0,Sky Movie (Select)
+http://sportztv.net:80/live/SportsTv/live/64.ts
+
+#EXTINF:0,Sky Movie (Atlantic)
+http://sportztv.net:80/live/SportsTv/live/98.ts
+
+#EXTINF:0,SkySport 1
+http://sportztv.net:80/live/SportsTv/live/1.ts
+
+#EXTINF:0,SkySport 1 (Backup)
+http://sportztv.net:80/live/SportsTv/live/140.ts
+
+#EXTINF:0,SkySport 2
+http://sportztv.net:80/live/SportsTv/live/2.ts
+
+#EXTINF:0,SkySport 2 (Backup)
+http://sportztv.net:80/live/SportsTv/live/141.ts
+
+#EXTINF:0,SkySport 3
+http://sportztv.net:80/live/SportsTv/live/3.ts
+
+#EXTINF:0,SkySport 3 (Backup)
+http://sportztv.net:80/live/SportsTv/live/142.ts
+
+#EXTINF:0,SkySport 4
+http://sportztv.net:80/live/SportsTv/live/4.ts
+
+#EXTINF:0,SkySport 4 (Backup)
+http://sportztv.net:80/live/SportsTv/live/143.ts
+
+#EXTINF:0,SkySport 5
+http://sportztv.net:80/live/SportsTv/live/5.ts
+
+#EXTINF:0,SkySport 5 (Backup)
+http://sportztv.net:80/live/SportsTv/live/144.ts
+
+#EXTINF:0,SkySport F1
+http://sportztv.net:80/live/SportsTv/live/6.ts
+
+#EXTINF:0,SkySport F1 (Backup)
+http://sportztv.net:80/live/SportsTv/live/145.ts
+
+#EXTINF:0,SkySport News
+http://sportztv.net:80/live/SportsTv/live/7.ts
+
+#EXTINF:0,SkySport News (Backup)
+http://sportztv.net:80/live/SportsTv/live/146.ts
+
+#EXTINF:0,NFL Network
+http://sportztv.net:80/live/SportsTv/live/58.ts
+
+#EXTINF:0,At The Races
+http://sportztv.net:80/live/SportsTv/live/52.ts
+
+#EXTINF:0,Racing UK
+http://sportztv.net:80/live/SportsTv/live/53.ts
+
+#EXTINF:0,NBC Sports
+http://sportztv.net:80/live/SportsTv/live/37.ts
+
+#EXTINF:0,Fox Sports 1 USA
+http://sportztv.net:80/live/SportsTv/live/59.ts
+
+#EXTINF:0,Fox Sports 2 USA
+http://sportztv.net:80/live/SportsTv/live/60.ts
+
+#EXTINF:0,SportsNet One
+http://sportztv.net:80/live/SportsTv/live/75.ts
+
+#EXTINF:0,SportsNet Ontario
+http://sportztv.net:80/live/SportsTv/live/77.ts
+
+#EXTINF:0,SportsNet World
+http://sportztv.net:80/live/SportsTv/live/76.ts
+
+#EXTINF:0,TSN 1
+http://sportztv.net:80/live/SportsTv/live/34.ts
+
+#EXTINF:0,TSN 2
+http://sportztv.net:80/live/SportsTv/live/35.ts
+
+#EXTINF:0,TSN 3
+http://sportztv.net:80/live/SportsTv/live/135.ts
+
+#EXTINF:0,TSN 4
+http://sportztv.net:80/live/SportsTv/live/136.ts
+
+#EXTINF:0,TSN 5
+http://sportztv.net:80/live/SportsTv/live/137.ts
+
+#EXTINF:0,OTE Sports 1
+http://sportztv.net:80/live/SportsTv/live/85.ts
+
+#EXTINF:0,OTE Sports 2
+http://sportztv.net:80/live/SportsTv/live/86.ts
+
+#EXTINF:0,OTE Sports 3
+http://sportztv.net:80/live/SportsTv/live/87.ts
+
+#EXTINF:0,OTE Sports 4
+http://sportztv.net:80/live/SportsTv/live/90.ts
+
+#EXTINF:0,OTE Sports 5
+http://sportztv.net:80/live/SportsTv/live/91.ts
+
+#EXTINF:0,OTE Sports 6
+http://sportztv.net:80/live/SportsTv/live/92.ts
+
+#EXTINF:0,Sport Klub 1 Serbia
+http://sportztv.net:80/live/SportsTv/live/66.ts
+
+#EXTINF:0,Sport Klub 2 Serbia
+http://sportztv.net:80/live/SportsTv/live/67.ts
+
+#EXTINF:0,Sport Klub 3 Serbia
+http://sportztv.net:80/live/SportsTv/live/68.ts
+
+#EXTINF:0,Sport Klub 1 Croatia
+http://sportztv.net:80/live/SportsTv/live/71.ts
+
+#EXTINF:0,Sport Klub 2 Croatia
+http://sportztv.net:80/live/SportsTv/live/72.ts
+
+#EXTINF:0,Sport Klub 3 Croatia
+http://sportztv.net:80/live/SportsTv/live/73.ts
+
+#EXTINF:0,Canal +
+http://sportztv.net:80/live/SportsTv/live/97.ts
+
+#EXTINF:0,Canal + Sport
+http://sportztv.net:80/live/SportsTv/live/96.ts
+
+#EXTINF:0,Pac 12 Network
+http://sportztv.net:80/live/SportsTv/live/138.ts
+
+#EXTINF:0,Willow Tv (Cricket)
+http://sportztv.net:80/live/SportsTv/live/33.ts
+
+#EXTINF:0,Sky Sport 1 HD Italy
+http://sportztv.net:80/live/SportsTv/live/50.ts
+
+#EXTINF:0,Sky Sport 2 HD Italy
+http://sportztv.net:80/live/SportsTv/live/51.ts
+
+#EXTINF:0,Btn
+http://sportztv.net:80/live/SportsTv/live/139.ts
+
+#EXTINF:0,Channel 1 (not 24x7)
+http://sportztv.net:80/live/SportsTv/live/150.ts
+
+#EXTINF:0,Channel 2 (not 24x7)
+http://sportztv.net:80/live/SportsTv/live/151.ts
+
+#EXTINF:0,Channel 3 (not 24x7)
+http://sportztv.net:80/live/SportsTv/live/152.ts
+
+#EXTINF:0,Channel 4 (not 24x7)
+http://sportztv.net:80/live/SportsTv/live/153.ts
+
+#EXTINF:0,Channel 5 (not 24x7)
+http://sportztv.net:80/live/SportsTv/live/154.ts
+
+#EXTINF:0,Channel 6 (not 24x7)
+http://sportztv.net:80/live/SportsTv/live/155.ts
+
+#EXTINF:0,Channel 7 (not 24x7)
+http://sportztv.net:80/live/SportsTv/live/156.ts
+
+#EXTINF:0,Channel 8 (not 24x7)
+http://sportztv.net:80/live/SportsTv/live/157.ts
+
+#EXTINF:0,Channel 9 (not 24x7)
+http://sportztv.net:80/live/SportsTv/live/158.ts
+
+#EXTINF:0,Channel 10 (not 24x7)
+http://sportztv.net:80/live/SportsTv/live/159.ts
+
+#EXTINF:0,Channel 11 (not 24x7)
+http://sportztv.net:80/live/SportsTv/live/160.ts
+
+#EXTINF:0,Channel 12 (not 24x7)
+http://sportztv.net:80/live/SportsTv/live/161.ts
+
+#EXTINF:0,Channel 13 (not 24x7)
+http://sportztv.net:80/live/SportsTv/live/162.ts
+
+#EXTINF:0,Channel 14 (not 24x7)
+http://sportztv.net:80/live/SportsTv/live/163.ts
+
+#EXTINF:0,Channel 15 (not 24x7)
+http://sportztv.net:80/live/SportsTv/live/164.ts
+
+#EXTINF:0,Channel 16 (not 24x7)
+http://sportztv.net:80/live/SportsTv/live/165.ts
+
+#EXTINF:0,Channel 17 (not 24x7)
+http://sportztv.net:80/live/SportsTv/live/166.ts
+
+#EXTINF:0,Channel 18 (not 24x7)
+http://sportztv.net:80/live/SportsTv/live/167.ts
+
+#EXTINF:0,Channel 19 (not 24x7)
+http://sportztv.net:80/live/SportsTv/live/168.ts
+
+#EXTINF:0,Channel 20 (not 24x7)
+http://sportztv.net:80/live/SportsTv/live/169.ts
+
+#EXTINF:0,Channel 21 (not 24x7)
+http://sportztv.net:80/live/SportsTv/live/170.ts
+
+#EXTINF:0,Channel 22 (not 24x7)
+http://sportztv.net:80/live/SportsTv/live/171.ts
+
+#EXTINF:0,Channel 23 (not 24x7)
+http://sportztv.net:80/live/SportsTv/live/172.ts
+
+#EXTINF:0,Channel 24 (not 24x7)
+http://sportztv.net:80/live/SportsTv/live/173.ts
+
+#EXTINF:0,Channel 25 (not 24x7)
+http://sportztv.net:80/live/SportsTv/live/174.ts
+
+#EXTINF:0,Channel 26 (not 24x7)
+http://sportztv.net:80/live/SportsTv/live/175.ts
+
+#EXTINF:0,Channel 27 (not 24x7)
+http://sportztv.net:80/live/SportsTv/live/176.ts
+
+#EXTINF:0,Channel 28 (not 24x7)
+http://sportztv.net:80/live/SportsTv/live/177.ts
+
+#EXTINF:0,Channel 29 (not 24x7)
+http://sportztv.net:80/live/SportsTv/live/178.ts
+
+#EXTINF:0,Channel 30 (not 24x7)
+http://sportztv.net:80/live/SportsTv/live/179.ts
+
+#EXTINF:0,bt1
+http://sportztv.net:80/live/SportsTv/live/187.ts
+
+#EXTINF:0,bt2
+http://sportztv.net:80/live/SportsTv/live/188.ts
+
+#EXTINF:0,espnuk
+http://sportztv.net:80/live/SportsTv/live/189.ts
+
+#EXTINF:0,euro1
+http://sportztv.net:80/live/SportsTv/live/190.ts
+
+#EXTINF:0,euro2
+http://sportztv.net:80/live/SportsTv/live/191.ts
+
+#EXTINF:0,sky1
+http://sportztv.net:80/live/SportsTv/live/180.ts
+
+#EXTINF:0,sky2
+http://sportztv.net:80/live/SportsTv/live/181.ts
+
+#EXTINF:0,sky3
+http://sportztv.net:80/live/SportsTv/live/182.ts
+
+#EXTINF:0,sky4
+http://sportztv.net:80/live/SportsTv/live/183.ts
+
+#EXTINF:0,sky5
+http://sportztv.net:80/live/SportsTv/live/184.ts
+
+#EXTINF:0,skyf1
+http://sportztv.net:80/live/SportsTv/live/185.ts
+
+#EXTINF:0,skynews
+http://sportztv.net:80/live/SportsTv/live/192.ts
+
+#EXTINF:0,skysportsnews
+http://sportztv.net:80/live/SportsTv/live/186.ts
+
+#EXTINF:0,Channel 1 Plus
+http://sportztv.net:80/live/SportsTv/live/206.ts
+
+#EXTINF:0,Channel 2 Plus
+http://sportztv.net:80/live/SportsTv/live/207.ts
+
+#EXTINF:0,Channel 3 Plus
+http://sportztv.net:80/live/SportsTv/live/208.ts
+
+#EXTINF:0,Channel 4 Plus
+http://sportztv.net:80/live/SportsTv/live/209.ts
+
+#EXTINF:0,Channel 5 Plus
+http://sportztv.net:80/live/SportsTv/live/210.ts
+
+#EXTINF:0,Channel 6 Plus
+http://sportztv.net:80/live/SportsTv/live/211.ts
+
+#EXTINF:0,Channel 7 Plus
+http://sportztv.net:80/live/SportsTv/live/212.ts
+
+#EXTINF:0,Channel 8 Plus
+http://sportztv.net:80/live/SportsTv/live/213.ts
+
+#EXTINF:0,Channel 9 Plus
+http://sportztv.net:80/live/SportsTv/live/214.ts
+
+#EXTINF:0,Channel 10 Plus
+http://sportztv.net:80/live/SportsTv/live/215.ts
+
+#EXTINF:0,Channel 11 Plus
+http://sportztv.net:80/live/SportsTv/live/216.ts
+
+#EXTINF:0,Channel 12 Plus
+http://sportztv.net:80/live/SportsTv/live/217.ts
+
+#EXTINF:0,Channel 13 Plus
+http://sportztv.net:80/live/SportsTv/live/218.ts
+
+#EXTINF:0,Channel 14 Plus
+http://sportztv.net:80/live/SportsTv/live/219.ts
+
+#EXTINF:0,Channel 15 Plus
+http://sportztv.net:80/live/SportsTv/live/220.ts
+
+#EXTINF:0,Channel 16 Plus
+http://sportztv.net:80/live/SportsTv/live/221.ts
+
+#EXTINF:0,Channel 17 Plus
+http://sportztv.net:80/live/SportsTv/live/222.ts
+
+#EXTINF:0,Channel 18 Plus
+http://sportztv.net:80/live/SportsTv/live/223.ts
+
+#EXTINF:0,Channel 19 Plus
+http://sportztv.net:80/live/SportsTv/live/224.ts
+
+#EXTINF:0,Channel 20 Plus
+http://sportztv.net:80/live/SportsTv/live/225.ts
+
+#EXTINF:0,Channel 21 Plus
+http://sportztv.net:80/live/SportsTv/live/226.ts
+
+#EXTINF:0,Bein Sports 1HD 720P
+http://sportztv.net:80/live/SportsTv/live/126.ts
+
+#EXTINF:0,Bein Sports 2HD 720P
+http://sportztv.net:80/live/SportsTv/live/127.ts
+
+#EXTINF:0,Bein Sports 3HD 720P
+http://sportztv.net:80/live/SportsTv/live/128.ts
+
+#EXTINF:0,Bein Sports 4HD 720P
+http://sportztv.net:80/live/SportsTv/live/129.ts
+
+#EXTINF:0,Bein Sports 5HD 720P
+http://sportztv.net:80/live/SportsTv/live/26.ts
+
+#EXTINF:0,Bein Sports 6HD 720P
+http://sportztv.net:80/live/SportsTv/live/27.ts
+
+#EXTINF:0,Bein Sports 7HD 720P
+http://sportztv.net:80/live/SportsTv/live/28.ts
+
+#EXTINF:0,Bein Sports 8HD 720P
+http://sportztv.net:80/live/SportsTv/live/29.ts
+
+#EXTINF:0,Bein Sports 9HD 720P
+http://sportztv.net:80/live/SportsTv/live/30.ts
+
+#EXTINF:0,Bein Sports 10HD 720P
+http://sportztv.net:80/live/SportsTv/live/130.ts
+
+#EXTINF:0,Bein Sports 11HD 720P
+http://sportztv.net:80/live/SportsTv/live/131.ts
+
+#EXTINF:0,Bein Sports 12HD 720P
+http://sportztv.net:80/live/SportsTv/live/132.ts
+
+#EXTINF:0,Bein Sports 13HD 720P
+http://sportztv.net:80/live/SportsTv/live/133.ts
+
+#EXTINF:0,Bein Sports 14HD 720P
+http://sportztv.net:80/live/SportsTv/live/134.ts
+
+#EXTINF:0,Bein Sports 15HD 720P
+http://sportztv.net:80/live/SportsTv/live/74.ts
+
+#EXTM3U url-tvg="http://www.xmltvguide.info/iptv/guide.xml.gz" 
+m3uautoload=1 cache=1000
+
+#EXTINF:-1,[COLOR purple][I][B]---|XMLTVGUIDE.INFO|---[/B][/I][/COLOR]
+https://sites.google.com/site/apitvbg/tlc.m3u
+
+#EXTINF:-1,[COLOR blue][B] --|IPTV WITH 7 DAY EPG|-- [/B][/COLOR]token=Fo5_n0w?U.rA6l3-70w47ch live=1
+https://sites.google.com/site/apitvbg/Discovery_Science.m3u
+
+#EXTINF:-1,[COLOR red][B]  --------- | U.S.A | --------- [/B][/COLOR]
+rtmp://204.45.157.34/flash playpath=19634?MTQyOTc3NjgzMzs2YWViMTUxNGYzZjUyODc3Yjg5NTMyNjk1NmQ0N2FlNA== swfUrl=http://static3.sawlive.tv/player.swf token=%ZZri(nKa@#Z pageUrl=http://www3.sawlive.tv/embed/watch/M1MzExMGY4ODkwZjAwNTgwZmY0YzE4Zg__/bGFnbzQ0MzoxNmE5YzcyNGFhNDU2NTM0ZDQ4Njk5N2E3Zjg2MGVhZjo3NzEzMDc2Mz
+
+#EXTINF:-1,[COLOR maroon][B]|UPDATED 16/04/15 @6.00AM AEST|[/B][/COLOR]
+rtmp://204.45.157.74/flash playpath=19634?MTQyOTc3NjczODtlZWE3MWI0NTczZThmYjk5YWYxMmIzODBiMmMzNzFkMQ== swfUrl=http://static3.sawlive.tv/player.swf token=%ZZri(nKa@#Z pageUrl=http://www3.sawlive.tv/embed/watch/I4OTU2YjZlYTZlYjMwZmY2MmE1YzM1Mw__/bGFnbzQ0MzoxNmE5YzcyNGFhNDU2NTM0ZDQ4Njk5N2E3Zjg2MGVhZjoyNzk3ZTAzMz
+ 
+#EXTINF:-1 tvg-id="A&E Network" tvg-logo="a&e.png" group-title="U.S.A",[COLOR lavender][I][B] A&E Network [/B][/I][/COLOR]
+http://50.7.69.186:1935/edge/_definst_/tuc280rbycwnsvs/manifest.m3u8?wowzasessionid=1426231480
+ 
+#EXTINF:-1 tvg-id="A&E HD" tvg-logo="a&e.png" group-title="U.S.A",[COLOR lavender][I][B] A&E Europe [/B][/I][/COLOR]
+http://noscdn1.connectedviews.com:1935/live/sporttv3hd.stream/livestream.m3u8
+ 
+#EXTINF:-1 tvg-id="-ABC-2" tvg-logo="abc.png" group-title="U.S.A",[COLOR lightgreen][I][B] ABC7 [/B][/I][/COLOR]
+rtmp://178.18.31.61:443/liverepeater playpath=191903 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH timeout=15
+ 
+#EXTINF:-1 tvg-id="-ABC-2" tvg-logo="abc.png" group-title="U.S.A",[COLOR lightgreen][I][B] ABC7 [/B][/I][/COLOR]
+rtmpe://192.99.38.90:1935/goLive playpath=rGCi7bg0Qxvs8q7Sl13l swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.tv/ token=OOG17t.x#K9Vh#|
+ 
+#EXTINF:-1 tvg-id="ABC Family" tvg-logo="abcfamily.png" group-title="U.S.A",[COLOR lightgreen][I][B] ABC Family [/B][/I][/COLOR]
+rtmpe://192.99.38.90:1935/goLive playpath=NyRerYqWuhRWGCsmb3f3 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.tv/ token=OOG17t.x#K9Vh#|
+ 
+#EXTINF:-1 tvg-logo="amc.png" tvg-id="AMC" group-title="U.S.A",[COLOR lightgreen][I][B] AMC NY [/B][/I][/COLOR]
+rtmpe://192.99.38.90:1935/goLive playpath=TfRQx7deUAuncJwM047m swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.tv/ token=OOG17t.x#K9Vh#|
+ 
+#EXTINF:-1 tvg-logo="amc.png" tvg-id="AMC" group-title="U.S.A",[COLOR lightgreen][I][B] AMC [/B][/I][/COLOR]
+rtmp://178.18.31.61:443/liverepeater playpath=191904 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
+ 
+#EXTINF:-1 tvg-logo="bravo.png" tvg-id="Bravo" group-title="U.S.A",[COLOR lightgreen][I][B] Bravo [/B][/I][/COLOR]
+rtmpe://192.99.38.90:1935/goLive playpath=bpVhPyJw4wqZW7W61yV76 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
+ 
+#EXTINF:-1 tvg-logo="bravo.png" tvg-id="Bravo" group-title="U.S.A",[COLOR lightgreen][I][B] Bravo [/B][/I][/COLOR]
+rtmp://178.18.31.61:443/liverepeater playpath=191905 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
+ 
+#EXTINF:-1 tvg-logo="bravo.png" tvg-id="Bravo" group-title="U.S.A",[COLOR lightgreen][I][B] Bravo [/B][/I][/COLOR]
+http://50.7.69.186:1935/edge/_definst_/uw433ikqnrj501l/playlist.m3u8?wowzasessionid=1419872183
+ 
+#EXTINF:-1 tvg-logo="cartoon.png" tvg-id="Cartoon Network(USA)" group-title="U.S.A",[COLOR lightgreen][I][B] Cartoon Network [/B][/I][/COLOR]
+rtmpe://192.99.38.90:1935/goLive playpath=08pydvp1b7ZwZb3a5TW1 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/?a=3&b=6
+ 
+#EXTINF:-1 tvg-id="Comedy Central(USA)" tvg-logo="comedychannel.png" group-title="U.S.A",[B][I][COLOR lightgreen] Comedy Central [/B][/I][/COLOR]
+rtmp://178.18.31.61:443/liverepeater playpath=191907 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
+ 
+#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="comedychannel.png" group-title="U.S.A",[B][I][COLOR lightgreen] Comedy Central Europe [/B][/I][/COLOR]
+http://188.138.9.228:8022/
+ 
+#EXTINF:-1 tvg-id="CNN" tvg-logo="cnn.png" group-title="NEWS",[B][I][COLOR lightgreen]  CNN  [/B][/I][/COLOR]
+rtmpe://46.246.124.22:1935/liveedge playpath=nnc swfUrl=http://player.hdcast.org/_.swf pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch
+ 
+#EXTINF:-1 tvg-logo="cbs.png" tvg-id="CBS-7" group-title="U.S.A",[COLOR lightgreen][I][B] CBS2 NY [/B][/I][/COLOR]
+rtmp://178.18.31.61:443/liverepeater playpath=191906 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
+ 
+#EXTINF:-1 tvg-logo="cbs.png" tvg-id="CBS-7" group-title="U.S.A",[COLOR lightgreen][I][B] CBS2 NY [/B][/I][/COLOR]
+rtmpe://192.99.38.90:1935/goLive playpath=Ger61uLQ4fedzvjRjrB7 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.tv/ token=OOG17t.x#K9Vh#| tcUrl=
+ 
+#EXTINF:-1 tvg-logo="cbs7.png" tvg-id="CBS7" group-title="U.S.A",[COLOR lightgreen][I][B] CBS7 [/B][/I][/COLOR]
+http://50.7.69.186:1935/edge/_definst_/866l7jy73xntgpa/playlist.m3u8?wowzasessionid=1419879488 timeou=10
+ 
+#EXTINF:-1 tvg-id="CW11" tvg-logo="cw11.png" group-title="U.S.A",[B][I][COLOR lightgreen] CW11 [/B][/I][/COLOR]
+rtmp://178.18.31.61:443/liverepeater playpath=191909 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
+ 
+#EXTINF:-1 tvg-logo="cw11.png" tvg-id="CW11" group-title="U.S.A",[COLOR lightgreen][I][B] CW11 [/B][/I][/COLOR]
+rtmpe://192.99.38.90:1935/goLive playpath=IWSyIjvWgHRCMM7MEJoZ swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
+ 
+#EXTINF:-1 tvg-id="Science" tvg-logo="science.png" group-title="U.S.A",[COLOR lightgreen][I][B] The Science Channel [/B][/I][/COLOR]
+http://50.7.69.186:1935/edge/_definst_/00t250wv1d4ltib/playlist.m3u8?wowzasessionid=1420249487
+ 
+#EXTINF:-1 tvg-id="The Discovery Channel" tvg-logo="discovery.png" group-title="U.S.A",[COLOR orange][I][B] Discovery Channel [/B][/I][/COLOR]
+http://50.7.69.186:1935/edge/_definst_/ishyd3sopok3p27/playlist.m3u8?wowzasessionid=1419872569
+ 
+#EXTINF:-1 tvg-id="The Discovery Channel" tvg-logo="discovery.png" group-title="U.S.A",[COLOR orange][I][B] Discovery Channel HQ[/B][/I][/COLOR]
+http://50.7.69.186:1935/edge/_definst_/ro7c9eha0z96hpp/playlist.m3u8?wowzasessionid=1419880467
+ 
+#EXTINF:-1 tvg-id="Investigation Discovery" tvg-logo="id.png" group-title="U.S.A",[COLOR orange][I][B] I.D [/COLOR][/I][/B]
+http://50.7.69.186:1935/edge/_definst_/yjma618cibkqxeo/playlist.m3u8?wowzasessionid=1420168729
+ 
+#EXTINF:-1 tvg-id="NBC-7" tvg-logo="nbc.png" group-title="U.S.A",[COLOR lightgreen][I][B] NBC4 [/B][/I][/COLOR]
+rtmpe://192.99.38.90:1935/goLive playpath=nbc01_augqlbj1 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
+ 
+#EXTINF:-1 tvg-id="NBC-7" tvg-logo="nbc.png" group-title="U.S.A",[COLOR lightgreen][I][B] NBC4 NY [/B][/I][/COLOR]
+rtmp://178.18.31.61:443/liverepeater playpath=191914 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
+ 
+#EXTINF:-1 tvg-id="NBC-7" tvg-logo="nbc.png" group-title="U.S.A",[COLOR lightgreen][I][B] NBC4 [/B][/I][/COLOR]
+rtmp://178.18.31.61:443/liverepeater playpath=191915 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="NBC4" tvg-logo="nbc.png" group-title="U.S.A",[COLOR lightgreen][I][B] NBC HQ [/B][/I][/COLOR]
+http://50.7.69.186:1935/edge/_definst_/s5whw37nl7weedp/playlist.m3u8?wowzasessionid=1420160473
+ 
+#EXTINF:-1 tvg-logo="hbo.png" tvg-id="(Mountain)HBO (West)" group-title="U.S.A",[COLOR lightgreen][I][B] HBO Pacific [/B][/I][/COLOR]
+rtmp://cdn.cast-tv.us/stream playpath=z00012.stream swfUrl=http://imveoh.info/player/player.swf pageUrl=http://imveoh.info/embed.php?n=z00099 token=#ed%h0#w@1
+ 
+#EXTINF:-1 tvg-logo="hbo.png" tvg-id="HBO" group-title="U.S.A",[COLOR lightgreen][I][B] HBO [/B][/I][/COLOR]
+rtmp://178.18.31.61:443/liverepeater playpath=191881 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
+ 
+#EXTINF:-1 tvg-logo="hbo.png" tvg-id="HBO" group-title="U.S.A",[COLOR lightgreen][I][B] HBO [/B][/I][/COLOR]
+rtmpe://167.114.65.139:1935/goLive playpath=qKmzUdRhBM73njBBDFyL swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
+ 
+#EXTINF:-1 tvg-logo="hbo.png" tvg-id="HBO" group-title="U.S.A",[COLOR lightgreen][I][B] HBO HQ [/B][/I][/COLOR]
+http://50.7.69.186:1935/edge/_definst_/qzbbu26gcvjxksz/playlist.m3u8?wowzasessionid=1419847602
+ 
+#EXTINF:-1 tvg-logo="hbocomedy.png" tvg-id="HBO Comedy" group-title="U.S.A",[COLOR lightgreen][I][B] HBO Comedy [/B][/I][/COLOR]
+http://50.7.69.186:1935/edge/_definst_/a1wn1j3ra1w0cv0/playlist.m3u8?wowzasessionid=1419915335
+ 
+#EXTINF:-1 tvg-logo="history.png" tvg-id="History(USA)" group-title="U.S.A",[COLOR orange][I][B] History Channel [/B][/I][/COLOR]
+http://50.7.69.170:1935/edge/_definst_/dhp0rpd116qyyj6/playlist.m3u8?wowzasessionid=1419874554
+ 
+#EXTINF:-1 tvg-logo="hallmark.png" tvg-id="Hallmark Channel" group-title="U.S.A",[COLOR orange][I][B]Hallmark Channel[/B][/I][/COLOR]
+http://50.7.69.186:1935/edge/_definst_/v4ynnryunsoxzbq/playlist.m3u8?wowzasessionid=1419874236
+ 
+#EXTINF:-1 tvg-logo="fox5.png" tvg-id="FOX-5" group-title="U.S.A",[COLOR lightgreen][I][B] FOX5 [/B][/I][/COLOR]
+rtmp://178.18.31.61:443/liverepeater playpath=191910 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
+ 
+#EXTINF:-1 tvg-logo="fox5.png" tvg-id="FOX-5" group-title="U.S.A",[COLOR lightgreen][I][B] FOX5 NY [/B][/I][/COLOR]
+rtmpe://192.99.38.90:1935/goLive playpath=9pxGCtP3aEnJYgoBFFH8 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
+ 
+#EXTINF:-1 tvg-id="Food Network" tvg-logo="food.png" group-title="U.S.A", [B][I][COLOR lightgreen] The Food Network [/B][/I][/COLOR]
+http://50.7.69.186:1935/edge/_definst_/ibnnu7537h3ax6e/playlist.m3u8?wowzasessionid=1419873022
+ 
+#EXTINF:-1 tvg-id="Fox News Channel" tvg-logo="foxnews.png" group-title="U.S.A", [B][I][COLOR lightgreen] FOX News [/B][/I][/COLOR]
+rtmp://178.18.31.61:443/liverepeater playpath=191911 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
+ 
+#EXTINF:-1 tvg-logo="fxhd.png" tvg-id="FX" group-title="U.S.A",[COLOR lightgreen][I][B] FX- [/B][/I][/COLOR]
+rtmpe://192.99.38.90:1935/goLive playpath=VCV8SViFVBv2nX5RQwKI swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
+ 
+#EXTINF:-1 tvg-logo="fxhd.png" tvg-id="FX" group-title="U.S.A",[COLOR lightgreen][I][B] FX-HQ [/B][/I][/COLOR]
+rtmp://178.18.31.61:443/liverepeater playpath=191913 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
+ 
+#EXTINF:-1 tvg-logo="mtv.png" tvg-id="MTV(USA)" group-title="U.S.A",[COLOR lightgreen][I][B] MTV [/B][/I][/COLOR]
+rtmpe://192.99.38.90:1935/goLive playpath=7U8HX14EnQVGCFy swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
+ 
+#EXTINF:-1 tvg-logo="mtv.png" tvg-id="MTV(USA)" group-title="U.S.A",[COLOR lightgreen][I][B] MTV HQ [/B][/I][/COLOR]
+http://50.7.69.186:1935/edge/_definst_/d2z1vc4ahrl6x26/playlist.m3u8?wowzasessionid=1420207062 timeout=15
+ 
+#EXTINF:-1 tvg-logo="nick.png" tvg-id="Nickelodeon" group-title="U.S.A",[COLOR lightgreen][I][B] Nickeloden [/B][/I][/COLOR]
+rtmpe://192.99.38.90:1935/goLive playpath=fCqfhb14WwwFbAsDbV3Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
+ 
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="nick.png" group-title="U.S.A",[COLOR lightgreen][I][B] Nick Toons [/COLOR][/I][/B]
+rtmpe://l.mybeststream.xyz/r/ playpath=nickku459 swfurl=http://mybeststream.xyz/MzQ0MDlhN2ZlMzUyMjYyMGYzZWQ0Y2Mz/jwplayer.flash.swf  pageurl=http://mybeststream.xyz
+ 
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="nick.png" group-title="U.S.A",[COLOR lightgreen][I][B] Nickeloden [/COLOR][/I][/B]
+http://50.7.69.186:1935/edge/_definst_/q2hs5fqm8b039y0/playlist.m3u8?wowzasessionid=1420206368
+ 
+#EXTINF:-1 tvg-id="National Geographic Channel(USA)" tvg-logo="natgeo.png" group-title="U.S.A",[COLOR orange][I][B] National Geographic [/COLOR][/I][/B]
+http://50.7.69.186:1935/edge/_definst_/b8bav5ayzso8m8q/playlist.m3u8?wowzasessionid=1420170282 timeout=15
+ 
+#EXTINF:-1 tvg-id="National Geographic Channel(USA)" tvg-logo="natgeo.png" group-title="U.S.A",[COLOR orange][I][B] National Geographic [/COLOR][/I][/B]
+http://50.7.69.170:1935/_definst_/qzsfigd1y3bgbhs/playlist.m3u8?wowzasessionid=1427853023 timeout=15
+ 
+#EXTINF:-1 tvg-id="NatGeo WILD" tvg-logo="natgeowild.png" group-title="U.S.A",[COLOR orange][I][B] National Geographic Wild [/COLOR][/I][/B]
+http://50.7.69.186:1935/edge/_definst_/thxtp7p419psf9j/playlist.m3u8?wowzasessionid=1427853023 timeout=15
+ 
+#EXTINF:-1 tvg-id="E! Entertainment Television" tvg-logo="e!.png" group-title="U.S.A",[COLOR orange][I][B] E! [/B][/I][/COLOR]
+rtmpe://192.99.38.90:1935/goLive playpath=XTPSm5g5XoN37idvGgLv swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://zerocast.in/ token=OOG17t.x#K9Vh#|
+ 
+#EXTINF:-1 tvg-logo="showtime.png" tvg-id="Showtime" group-title="U.S.A",[COLOR lightgreen][I][B] Showtime [/B][/I][/COLOR]
+rtmpe://192.99.38.90:1935/goLive playpath=kbMD64czDshAmjDd4kxQ swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
+ 
+#EXTINF:-1 tvg-logo="showtime.png" tvg-id="Showtime" group-title="U.S.A",[COLOR lightgreen][I][B] Showtime [/B][/I][/COLOR]
+http://50.7.69.186:1935/edge/_definst_/bwbop58ixz281wv/chunklist.m3u8?wowzasessionid=1419875151 timeout=15
+ 
+#EXTINF:-1 tvg-logo="syfy.png" tvg-id="Syfy(USA)" group-title="U.S.A",[COLOR lightgreen][I][B] SyFy [/B][/I][/COLOR]
+rtmpe://192.99.38.90:1935/goLive playpath=tPjsURqsVo4NSe23EhJP swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.tv/ token=OOG17t.x#K9Vh#|
+ 
+#EXTINF:-1 tvg-logo="syfy.png" tvg-id="Syfy(USA)" group-title="U.S.A",[COLOR lightgreen][I][B] SyFy [/B][/I][/COLOR]
+http://50.7.69.186:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=1419878403 timeout=15
+ 
+#EXTINF:-1 tvg-logo="tnt.png" tvg-name="TNT" group-title="U.S.A",[COLOR lightgreen][I][B] TNT [/B][/I][/COLOR]
+rtmpe://192.99.38.90:1935/goLive playpath=Waz0WqvbqNHmt0gdzrsm swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
+ 
+#EXTINF:-1 tvg-logo="tnt.png" tvg-name="TNT" group-title="U.S.A",[COLOR lightgreen][I][B] TNT [/B][/I][/COLOR]
+rtmp://178.18.31.61:443/liverepeater playpath=191917 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
+ 
+#EXTINF:-1 tvg-logo="tnt.png" tvg-name="TNT" group-title="U.S.A",[COLOR lightgreen][I][B] TNT [/B][/I][/COLOR]
+http://50.7.69.186:1935/edge/_definst_/6q4jlbqwvxuingo/chunklist.m3u8?wowzasessionid=1419943929 timeout=15
+ 
+#EXTINF:-1 tvg-logo="tbs.png" tvg-name="TBS" group-title="U.S.A",[COLOR lightgreen][I][B] TBS [/B][/I][/COLOR]
+rtmpe://192.99.38.90:1935/goLive playpath=RhMi9RdAAt7fpq8H3qZh swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
+ 
+#EXTINF:-1 tvg-logo="tbs.png" tvg-name="TBS" group-title="U.S.A",[COLOR lightgreen][I][B] TBS [/B][/I][/COLOR]
+rtmp://178.18.31.61:443/liverepeater playpath=191916 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
+ 
+#EXTINF:-1 tvg-id="TLC" tvg-logo="tlc.png" group-title="U.S.A",[COLOR lightgreen][I][B]TLC [/COLOR][/I][/B]
+http://50.7.69.186:1935/edge/_definst_/iugceoy4o6ljhck/playlist.m3u8?wowzasessionid=1419907929 timeout=15
+ 
+#EXTINF:-1 tvg-id="TLC" tvg-logo="tlc.png" group-title="U.S.A",[COLOR lightgreen][I][B]TLC HQ[/COLOR][/I][/B]
+http://50.7.69.186:1935/edge/_definst_/4nm2ewg5jznklf0/manifest.m3u8?wowzasessionid=1426892472 timeout=15
+ 
+#EXTINF:-1 tvg-id="Lifetime Television" tvg-logo="lifetime.png" group-title="U.S.A",[COLOR lightgreen][I][B]Lifetime Channel[/COLOR][/I][/B]
+http://50.7.69.186:1935/edge/_definst_/7b2gr554gyyth8e/playlist.m3u8?wowzasessionid=1419879018 timeout=15
+ 
+#EXTINF:-1 tvg-logo="usa.png" tvg-id="USA Network" group-title="U.S.A",[COLOR lightgreen][I][B] USA Network [/B][/I][/COLOR]
+rtmpe://192.99.38.90:1935/goLive playpath=jvZXQUYQmlsPirfiVK1G swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
+ 
+#EXTINF:-1 tvg-logo="usa.png" tvg-id="USA Network" group-title="U.S.A",[COLOR lightgreen][I][B] USA Network [/B][/I][/COLOR]
+http://209.95.34.86/live2/105-USANet.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="trutv.png" tvg-id="truTV" group-title="U.S.A",[COLOR orange][I][B] TruTV [B][/I][/B][/COLOR]
+http://50.7.69.186:1935/edge/_definst_/uhnr4161ybioa5w/playlist.m3u8?wowzasessionid=1420124955 timeout=15
+ 
+#EXTINF:-1 tvg-logo="spike.png" tvg-id="Spike TV" group-title="U.S.A",[COLOR lightgreen][I][B] Spike TV [B][/I][/B][/COLOR]
+http://50.7.69.186:1935/edge/_definst_/sax2mq2alpirnww/playlist.m3u8?wowzasessionid=1419878529
+ 
+#EXTINF:-1 tvg-id="VH1(USA)" tvg-logo="vh1.png" group-title="U.S.A",[COLOR lightgreen][I][B]VH1[/B][/I][/COLOR]
+http://50.7.69.186:1935/edge/_definst_/oeiigxxv1gbeqq9/playlist.m3u8?wowzasessionid=1420170560 timeout=15
+ 
+#EXTINF:-1 tvg-id="WXTV Univision 41" tvg-logo="univison.png" group-title="U.S.A",[COLOR lightgreen][I][B]Univision (HD)[/COLOR][/I][/B]
+http://50.7.69.186:1935/edge/_definst_/obzq3ltrjoaxglf/chunklist_w442557998.m3u8?wowzasessionid=1419908048 timeout=15
+ 
+#EXTINF:-1,[COLOR red][B] --------- | U.K | --------  [/B][/COLOR]
+rtmp://31.7.58.250/redirect/ swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.yukons.co/embed.php?live=livetv21&vw=660&vh=450 playpath=livetv21
+#EXTINF:-1,[COLOR maroon][B]---| UPDATED 18.04.15  |----[/B][/COLOR]
+rtmpe://192.99.38.90:1935/goLive playpath=YATOC2Fc0rYqZ7YjbOxJ swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="BBC1" tvg-logo="bbc_one.png" group-title="UK",[COLOR aqua][B][I] BBC London [/I][/B][/COLOR]
+rtmpe://46.246.124.22:1935/liveedge playpath=cb1 swfUrl=http://player.hdcast.org/_.swf pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="BBC1" tvg-logo="bbc_one.png" group-title="UK",[COLOR aqua][B][I] BBC One [/I][/B][/COLOR]
+http://llnw.live.simplestream.com/mediaexcel01/channel01/3/prog_index.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="BBC2" tvg-logo="bbc_two.png" group-title="UK",[COLOR aqua][B][I] BBC Two [/I][/B][/COLOR]
+http://llnw.live.simplestream.com/mediaexcel01/channel02/3/prog_index.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="BBC3" tvg-logo="bbc3.png" group-title="UK",[COLOR aqua][B][I] BBC Three [/I][/B][/COLOR]
+http://llnw.live.simplestream.com/mediaexcel01/channel06/3/prog_index.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="BBC4" tvg-logo="bbc4.png" group-title="UK",[COLOR aqua][B][I] BBC Four [/I][/B][/COLOR]
+http://37.220.29.186:8000/bbc4/bbc4/index.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="CBeebies" tvg-logo="cbbc.png" group-title="UK",[COLOR aqua][B][I] CBeebies [/I][/B][/COLOR]
+http://llnw.live.simplestream.com/coder7/coder.channels.channel4/hls/3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="BBC Alba" tvg-logo="bbcalba.png" group-title="UK",[COLOR aqua][B][I] BBC Alba [/I][/B][/COLOR]
+http://llnw.live.simplestream.com/coder10/coder.channels.channel19/hls/3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="4seven" tvg-logo="4seven.png" group-title="UK",[COLOR aqua][B][I] 4-Seven [/I][/B][/COLOR]
+http://llnw.live.simplestream.com/coder8/coder.channels.channel6/hls/3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Channel 4 HD" tvg-logo="channel4.png" group-title="UK",[COLOR aqua][B][I] Channel 4 [/I][/B][/COLOR]
+http://llnw.live.simplestream.com/mediaexcel01/channel04/3/prog_index.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Channel 4 HD" tvg-logo="channel4.png" group-title="UK",[COLOR aqua][B][I] Channel 4 [/I][/B][/COLOR]
+http://laganvpn12.plus.com:9981/stream/channelid/57
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Channel 4 +1" tvg-logo="channel4+1.png" group-title="UK",[I][B][COLOR aqua] Channel 4 +1 [/I][/B][/COLOR]
+http://laganvpn12.plus.com:9981/stream/channelid/55
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Channel 5 HD" tvg-logo="channel5.png" group-title="UK",[COLOR aqua][B][I] Channel 5 [/I][/B][/COLOR]
+http://llnw.live.simplestream.com/mediaexcel01/channel05/3/prog_index.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Channel 5 HD" tvg-logo="channel5.png" group-title="UK",[I][B][COLOR aqua] Channel 5 [/I][/B][/COLOR]
+http://laganvpn12.plus.com:9981/stream/channelid/52
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Channel 5 +1" tvg-logo="channel5+1.png" group-title="UK",[I][B][COLOR aqua] Channel 5 +1 [/I][/B][/COLOR]
+http://laganvpn12.plus.com:9981/stream/channelid/64
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Channel 5+24" tvg-name="Channel_5+24" tvg-logo="channel5+24.png" group-title="UK",[I][B][COLOR aqua] Channel 5 +24 [/I][/B][/COLOR]
+http://llnw.live.simplestream.com/coder8/coder.channels.channel12/hls/3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="CBS Action" tvg-logo="cbsaction.png" group-title="UK",[COLOR aqua][B][I] CBS Action [/I][/B][/COLOR]
+http://llnw.live.simplestream.com/coder4/coder.channels.channel2/hls/3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="CBS Action" tvg-logo="cbsaction.png" group-title="UK",[COLOR aqua][B][I] CBS Action [/I][/B][/COLOR]
+http://94.198.255.211:5555/pl.m3u8?channel=303
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="CBS Reality" tvg-logo="cbsreality.png" group-title="UK",[COLOR aqua][B][I] CBS Reality [/B][/I][/COLOR]
+http://laganvpn12.plus.com:9981/stream/channelid/73
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="CITV" tvg-logo="citv.png" group-title="UK",[COLOR aqua][I][B] CITV [/B][/I][/COLOR]
+http://llnw.live.simplestream.com/coder8/coder.channels.channel5/hls/3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="CBBC" tvg-logo="cbbc.png" group-title="UK",[COLOR aqua][B][I] CBBC [/I][/B][/COLOR]
+http://llnw.live.simplestream.com/coder2/coder.channels.channel5/hls/3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Cartoon Network" tvg-logo="cartoon.png" group-title="UK",[COLOR aqua][B][I] Cartoon Network HD [/I][/B][/COLOR]
+http://live-streamtv.de/live/hlstv/edge/index.m3u8?page_id=16&auth=a4f4fca77cb2d10bfa0c5dfa93670ac8&c=cartoonnetworkch
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-logo="communitychannel.png" tvg-id="Community Channel" group-title="UK",[COLOR aqua][I][B] Community Channel [/B][/I][/COLOR]
+http://llnw.live.simplestream.com/coder10/coder.channels.channel16/hls/3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="ITV" tvg-logo="itv.png" group-title="UK",[COLOR aqua][B][I] ITV [/B][/I][/COLOR]
+rtmpe://46.246.124.22:1935/liveedge playpath=tvi1 swfUrl=http://player.hdcast.org/_.swf pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="ITV London" tvg-logo="itv.png" group-title="UK",[COLOR aqua][B][I] ITV1 [/B][/I][/COLOR]
+http://llnw.live.simplestream.com/mediaexcel01/channel03/3/prog_index.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-logo="itv2.png" tvg-id="ITV2" group-title="UK",[COLOR aqua][I][B] ITV2 [/B][/I][/COLOR]
+http://llnw.live.simplestream.com/coder12/coder.channels.channel8/hls/3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-logo="itv2.png" tvg-id="ITV2" group-title="UK",[COLOR aqua][I][B] ITV2 HQ [/B][/I][/COLOR]
+http://laganvpn12.plus.com:9981/stream/channelid/51
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-logo="itv2+1.png" tvg-id="ITV2+1" group-title="UK",[COLOR aqua][I][B] ITV2 +1 [/B][/I][/COLOR]
+http://laganvpn12.plus.com:9981/stream/channelid/68
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-logo="itv3.png" tvg-id="ITV3" group-title="UK",[COLOR aqua][I][B] ITV3 [/B][/I][/COLOR]
+http://llnw.live.simplestream.com/coder12/coder.channels.channel10/hls/3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-logo="itv4.png" tvg-id="ITV4" group-title="UK",[COLOR aqua][I][B] ITV4 [/B][/I][/COLOR]
+http://llnw.live.simplestream.com/coder12/coder.channels.channel12/hls/3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-logo="itvbe.png" tvg-id="ITV.be" tvg-name="ITV.be" group-title="UK",[COLOR aqua][I][B] ITVBe [/B][/I][/COLOR]
+http://78.129.175.72/live/itvbe/itvbe.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-logo="itvchoice.png" tvg-id="ITV Encore" tvg-name="" group-title="UK",[COLOR aqua][I][B] ITVBe [/B][/I][/COLOR]
+http://185.27.237.105:8082/TV0055
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Dave" tvg-logo="davehd.png" group-title="UK",[COLOR aqua][B][I] Dave [/I][/B][/COLOR]
+http://laganvpn12.plus.com:9981/stream/channelid/82
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Dave ja vu" tvg-logo="davejavu.png" group-title="UK",[I][B][COLOR aqua] Dave Ja Vu [/I][/B][/COLOR]
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/189.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Discovery Science" tvg-logo="science.png" group-title="UK",[COLOR aqua][B][I] Discovery Science [/B][/I][/COLOR]
+http://50.7.69.170:1935/edge/_definst_/bmbahkumnsqcydw/chunklist_w442557998.m3u8?wowzasessionid=1426232934
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="History" tvg-logo="history.png" group-title="UK",[COLOR aqua][B][I] History UK [/B][/I][/COLOR]
+http://50.7.69.186:1935/edge/_definst_/logojbjhar79pc8/manifest.m3u8?wowzasessionid=1426231700
+ 
+#EXTINF:-1 tvg-shift=-7 tvg-id="NATIONAL GEOGRAPHIC CHANNEL[JKT]" tvg-logo="natgeo.png" group-title="UK",[COLOR aqua][B][I] National Geographic(Asia)[/B][/I][/COLOR]
+http://103.242.13.67:5000/nn_live.ts?id=nationalgeographic-m-h
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-logo="e4.png" tvg-id="E4" group-title="U.K",[COLOR aqua][I][B] E4 [/B][/I][/COLOR]
+http://llnw.live.simplestream.com/coder10/coder.channels.channel21/hls/3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-logo="e4.png" tvg-id="E4" group-title="U.K",[COLOR aqua][I][B] E4 [/B][/I][/COLOR]
+http://laganvpn12.plus.com:9981/stream/channelid/58
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Film4 HD" tvg-logo="film4.png" group-title="UK",[COLOR aqua][B][I] Film4 [/B][/I][/COLOR]
+http://laganvpn12.plus.com:9981/stream/channelid/59
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Film4 HD" tvg-logo="film4.png" group-title="UK",[COLOR aqua][B][I] Film4 HD [/B][/I][/COLOR]
+http://live-streamtv.de/live/hlstv/edge/index.m3u8?page_id=16&auth=a4f4fca77cb2d10bfa0c5dfa93670ac8&c=film4
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Food Network" tvg-logo="foodnetwork.png" group-title="UK",[COLOR aqua][B][I] Food Network [/I][/B][/COLOR]
+http://llnw.live.simplestream.com/coder2/coder.channels.channel2/hls/3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Food Network +1" tvg-logo="foodnetwork+1.png" group-title="UK",[COLOR aqua][B][I] Food Network +1 [/I][/B][/COLOR]
+http://llnw.live.simplestream.com/coder2/coder.channels.channel8/hls/3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="5*" tvg-logo="5star.png" group-title="UK",[COLOR aqua][B][I] Five* [/I][/B][/COLOR]
+http://llnw.live.simplestream.com/coder8/coder.channels.channel8/hls/3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="5USA" tvg-logo="5usa.png" group-title="UK",[COLOR aqua][B][I] Five USA [/I][/B][/COLOR]
+http://llnw.live.simplestream.com/coder8/coder.channels.channel14/hls/3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Pick" tvg-logo="picktv.png" tvg-shift=-1 group-title="UK",[COLOR aqua][B][I] Pick TV [/B][/I][/COLOR]
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/188.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="More4" tvg-logo="more4.png" group-title="UK",[COLOR aqua][B][I] More4 [/B][/I][/COLOR]
+http://llnw.live.simplestream.com/coder8/coder.channels.channel2/hls/3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="More4" tvg-logo="more4.png" group-title="UK",[COLOR aqua][B][I] More4 [/B][/I][/COLOR]
+http://laganvpn12.plus.com:9981/stream/channelid/56
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Movies4Men" tvg-logo="movies4men.png" group-title="UK",[COLOR aqua][B][I] Movies4Men [/B][/I][/COLOR]
+http://94.198.255.211:5555/pl.m3u8?channel=306
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="True Movies 1" tvg-logo="tm1.png" group-title="UK",[COLOR aqua][B][I] True Movies 1 [/B][/I][/COLOR]
+http://llnw.live.simplestream.com/coder4/coder.channels.channel8/hls/3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="True Movies 2" tvg-logo="tm1.png" group-title="UK",[COLOR aqua][B][I] True Movies 2 [/B][/I][/COLOR]
+http://llnw.live.simplestream.com/coder4/coder.channels.channel10/hls/3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="TrueEnt" tvg-logo="trueent.png" group-title="UK",[COLOR aqua][B][I] True Entertainment [/B][/I][/COLOR]
+http://laganvpn12.plus.com:9981/stream/channelid/67
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Horror Channel" tvg-logo="horror.png" group-title="UK",[COLOR aqua][B][I] Horror Channel [/B][/I][/COLOR]
+http://llnw.live.simplestream.com/coder4/coder.channels.channel6/hls/3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="travelchannel" tvg-logo="travelchannel.png" group-title="UK",[COLOR aqua][B][I] Travel Channel [/B][/I][/COLOR]
+http://llnw.live.simplestream.com/coder6/coder.channels.channel12/hls/3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="travelchannel +1" tvg-logo="travelchannel+1.png" group-title="UK",[COLOR aqua][B][I] Travel Channel +1 [/B][/I][/COLOR]
+http://llnw.live.simplestream.com/coder6/coder.channels.channel14/hls/3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="RTE1" tvg-logo="RTE1.png" group-title="UK",[COLOR aqua][B][I] RTE1 [/B][/I][/COLOR]
+http://212.250.46.35:4252/bysid/9601
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="RTE2" tvg-logo="RTE2.png" group-title="UK",[COLOR aqua][B][I] RTE2 [/B][/I][/COLOR]
+http://212.250.46.35:4252/bysid/9602
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="TG4" tvg-logo="tg4.png" group-title="UK",[COLOR aqua][B][I] TG4 [/B][/I][/COLOR]
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="UTV" tvg-logo="utv.png" group-title="UK",[I][B][COLOR aqua] UTV [/I][/B][/COLOR]
+http://laganvpn12.plus.com:9981/stream/channelid/54
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="UTV +1" tvg-logo="utv+1.png" group-title="UK",[I][B][COLOR aqua] UTV +1 [/I][/B][/COLOR]
+http://laganvpn12.plus.com:9981/stream/channelid/53
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Sky Arts 1" tvg-logo="skyarts1.png" group-title="UK",[COLOR aqua][B][I] Sky Arts 1 [/B][/I][/COLOR]
+http://185.56.30.127:8082/TV4307
+ 
+#EXTINF:-1 tvg-shift=-1  tvg-id="Sky Arts 2" tvg-logo="skyarts2.png" group-title="UK",[COLOR aqua][B][I] Sky Arts 2 [/B][/I][/COLOR]
+http://185.56.30.127:8082/TV4250
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="QVC" tvg-logo="qvc" group-title="UK",[COLOR aqua][B][I] QVC [/B][/I][/COLOR]
+http://laganvpn12.plus.com:9981/stream/channelid/60
+ 
+#EXTINF:-1,[COLOR red][B] -------| PREMIUM MOVIES  |--------   [/B][/COLOR]
+http://-------------------------------------------------------------------------------------------------------------------------------------------------------------------------t.m3u8
+#EXTINF:-1, [COLOR maroon][B]-----== ONLINE @ 18.04.15  ==------[/B][/COLOR]
+http://-------------============================================================.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Sky Movies Premiere" tvg-logo="skypremier.png" group-title="MOVIES",[COLOR lime][B][I] Sky Movies Premiere [/I][/B][/COLOR]
+http://91.109.20.227:8080/TV4251
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Sky Movies Premiere +1" tvg-logo="skypremier+1.png" group-title="MOVIES",[COLOR lime][B][I] Sky Movies Premiere +1 [/I][/B][/COLOR]
+http://91.109.20.227:8080/TV4252
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Sky Movies Action & Adventure" tvg-logo="skyaction.png" group-title="MOVIES",[COLOR lime][B][I] Sky Movies Action & Adventure [/I][/B][/COLOR]
+http://185.56.30.123:8082/TV4245
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Sky Movies Comedy HD" tvg-logo="skycomedy.png" group-title="MOVIES",[COLOR lime][B][I] Sky Movies Comedy [/I][/B][/COLOR]
+http://185.56.30.123:8082/TV4246
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Sky Movies Sci-Fi/Horror HD" tvg-logo="skyscifi.png" group-title="MOVIES",[COLOR lime][B][I] Sky Movies Sci-Fi & Horror [/I][/B][/COLOR]
+http://185.56.30.123:8082/TV4249
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Sky Movies Family HD" tvg-logo="skyfam.png" group-title="MOVIES",[COLOR lime][B][I] Sky Movies Family [/I][/B][/COLOR]
+http://185.56.30.123:8082/TV4248
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Sky Movies Greats HD" tvg-logo="skygreats.png" group-title="MOVIES",[COLOR lime][B][I] Sky Movies Greats [/I][/B][/COLOR]
+http://185.27.237.105:8082/TV4240
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Sky Movies Select HD" tvg-logo="skyselect.png" group-title="MOVIES",[COLOR lime][B][I] Sky Movies Select [/I][/B][/COLOR]
+http://91.109.20.227:8080/TV4254
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Sky DISNEY" tvg-logo="skydisney.png" group-title="MOVIES",[COLOR lime][B][I] Sky Movies Disney [/I][/B][/COLOR]
+http://185.56.30.123:8082/TV4247
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="SONY MAX" tvg-logo="sonymax.png" group-title="MOVIES", [B][I][COLOR lime] Sony MAX [/I][/B][/COLOR]
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/144.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="SONY MAX" tvg-logo="sonymax.png" group-title="MOVIES", [B][I][COLOR lime] Sony MAX [/I][/B][/COLOR]
+rtmp://178.18.31.61:443/liverepeater playpath=191912 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
+ 
+#EXTINF:-1 tvg-shift=-5 tvg-id="FOX Movies Premium[STARHUB]" tvg-logo="" group-title="MOVIES" ,[B][I][COLOR lime] Fox Movies Premium [/I][/B][/COLOR]
+rtmp://cdn.cast-tv.us/stream playpath=z00012.stream swfUrl=http://imveoh.info/player/player.swf pageUrl=http://imveoh.info/embed.php?n=z00010 token=#ed%h0#w@1
+ 
+#EXTINF:-1 tvg-shift=-7 tvg-id="FOX ACTION MOVIES HD[JKT]",[COLOR lime][I][B] Fox Action Movies [/B][/I][/COLOR]
+http://103.242.13.66:5000/nn_live.ts?id=foxactionmovie-m-h
+ 
+#EXTINF:-1 tvg-shift=-7 tvg-id="FOX MOVIES PREMIUM HD[JKT]",[COLOR lime][I][B] Fox Movies Premiere [/B][/I][/COLOR]
+http://103.242.13.67:5000/nn_live.ts?id=foxmovies-m-h
+ 
+#EXTINF:-1 tvg-shift=-7 tvg-id="FOX MOVIES PREMIUM HD[JKT]" tvg-logo="Foxmoviechannel.png" group-title="MOVIES",[I][B][COLOR lime] FOX Family Movies [/B][/I][/COLOR]
+http://103.242.13.66:5000/nn_live.ts?id=supernet-m-h
+ 
+#EXTINF:-1,[COLOR red][B]-----------| SPORTS | ---------- [/B][/COLOR]
+http://-------------------------------------------/----------------------------------------------------------------------------/1.m3u8
+#EXTINF:-1, [COLOR maroon][B]----- ONLINE @  18.04.15  ----[/B][/COLOR]
+http://24.22.49.37:1935/live/livefeed1/playlist.m3u8
+ 
+#EXTINF:0, FOX SPORTS 1 (USA)
+rtmp://31.220.0.134:1935/live playpath=fox1 swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=fox1&vw=620&vh=490 Conn=S:OK
+ 
+#EXTINF:0, FOX SPORTS 2 (USA)
+rtmp://31.220.0.104:1935/live playpath=fox2 swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=fox2&vw=620&vh=490 Conn=S:OK
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Attheraces" tvg-logo="attheraces.png"group-title="SPORTS",[COLOR goldenrod][I][B] At The Races [/B][/I][/COLOR]
+http://llnw.live.simplestream.com/coder1/coder.channels.channel2/hls/1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Racing UK" tvg-logo="racinguk.png"group-title="SPORTS",[COLOR goldenrod][I][B] Racing UK [/B][/I][/COLOR]
+rtmp://rrbalancer.broadcast.tneg.de:1935/pw/ruk/ playpath=ruk swfUrl=http://pferdewetten.broadcast.tneg.de/jwplayer/player.swf live=1 pageUrl=http://pferdewetten.broadcast.tneg.de/jwplayer/player.php?type=live&stream=ruk1&token=ccf6c54e62bc5bd667661d5af5d61e8664c75b11
+ 
+#EXTINF:-1 tvg-id="The Golf Channel" tvg-logo="golf.png" group-title="SPORTS",[COLOR goldenrod][I][B] NBC Golf [/B][/I][/COLOR]
+http://50.7.69.186:1935/edge/_definst_/ts6w24dx29tcwi4/playlist.m3u8?wowzasessionid=1420169504
+ 
+#EXTINF:-1 tvg-id="The Golf Channel" tvg-logo="golf.png" group-title="SPORTS",[COLOR goldenrod][I][B] NBC Golf [/B][/I][/COLOR]
+rtmpe://l.mybeststream.xyz/r/ playpath=golffa199 swfurl=http://mybeststream.xyz/MzQ0MDlhN2ZlMzUyMjYyMGYzZWQ0Y2Mz/jwplayer.flash.swf  pageurl=http://mybeststream.xyz
+ 
+#EXTINF:-1 tvg-id="Fox Sports 2" tvg-logo="foxsports2.png" group-title="SPORTS" ,[B][I][COLOR goldenrod] Fox Sports 2 [/I][/B][/COLOR]
+rtmp://cdn.cast-tv.us/stream playpath=z00011.stream swfUrl=http://imveoh.info/player/player.swf pageUrl=http://imveoh.info/embed.php?n=z00011 token=#ed%h0#w@1
+ 
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="espn.png" group-title="SPORTS",[B][I][COLOR goldenrod] ESPN [/B][/I][/COLOR]
+http://50.7.69.186:1935/edge/_definst_/erooxo5dcvk05zk/chunklist.m3u8?wowzasessionid=1426891013
+ 
+#EXTINF:-1 tvg-logo="espn2.png" tvg-name="ESPN2" group-title="SPORTS",[COLOR goldenrod][I][B] ESPN 2 [/B][/I][/COLOR]
+http://50.7.69.186:1935/edge/_definst_/5hd19kwxef5b59o/chunklist.m3u8?wowzasessionid=1420159722
+ 
+#EXTINF:-1 tvg-logo="espn2.png" tvg-name="ESPN2" group-title="SPORTS",[COLOR goldenrod][I][B] ESPN 2 [/B][/I][/COLOR]
+rtmpe://l.mybeststream.xyz/r/ playpath=spne2937 swfurl=http://mybeststream.xyz/MzQ0MDlhN2ZlMzUyMjYyMGYzZWQ0Y2Mz/jwplayer.flash.swf  pageurl=http://mybeststream.xyz
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="beIN Sports" tvg-logo="bein.png" group-title="SPORTS",[COLOR goldenrod][I][B] BeIN Sports [/B][/I][/COLOR]
+rtmp://cdn.cast-tv.us/stream playpath=z00031.stream swfUrl=http://imveoh.info/player/player.swf pageUrl=http://imveoh.info/embed.php?n=z00099 token=#ed%h0#w@1
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="beIN Sports" tvg-logo="bein.png" group-title="SPORTS",[COLOR goldenrod][I][B] BeIN Sports [/B][/I][/COLOR]
+http://50.7.69.186:1935/edge/_definst_/a1wn1j3ra1w0cv0/chunklist.m3u8?wowzasessionid=1419915335
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="British Eurosport HD" tvg-logo="britisheurosports1.png" group-title="SPORTS",[COLOR goldenrod][I][B] British EuroSports 1 [/B][/I][/COLOR]
+rtmp://80.82.64.140:443/liverepeater playpath=28 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=22&width=600&height=450 token=#atd%#$ZH
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="British Eurosport 2" tvg-logo="britisheurosports2.png" group-title="SPORTS",[COLOR goldenrod][I][B] British EuroSports 2 [/B][/I][/COLOR]
+rtmp://80.82.78.26:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=15&width=620&height=490 token=#atd%#$ZH
+ 
+#EXTINF:-1 tvg-id="NBA TV" tvg-logo="nba.png" group-title="SPORTS",[COLOR goldenrod][I][B] NBA TV [/B][/I][/COLOR]
+http://50.7.69.186:1935/edge/_definst_/fzasab6vz02yuf7/chunklist.m3u8?wowzasessionid=1419914830
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Sky Sports 1 HD" tvg-logo="skysports1.png" group-title="SPORTS",[COLOR goldenrod][I][B] Sky Sports 1 [/B][/I][/COLOR]
+rtmp://178.18.31.55:443/liverepeater playpath=191327 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/stream.php?id=191327&width=650&height=480 token=#atd%#$ZH live=1
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Sky Sports 1 HD" tvg-logo="skysports1.png" group-title="SPORTS",[COLOR goldenrod][I][B] Sky Sports 1 [/B][/I][/COLOR]
+rtmp://178.18.31.61:443/liverepeater playpath=191883 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Sky Sports 2" tvg-logo="skysports2.png" group-title="SPORTS",[COLOR goldenrod][I][B] Sky Sports 2 [/B][/I][/COLOR]
+rtmp://178.18.31.55:443/liverepeater playpath=191328 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/stream.php?id=191327&width=650&height=480 token=#atd%#$ZH live=1
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Sky Sports 2" tvg-logo="skysports2.png" group-title="U.S.A",[COLOR goldenrod][I][B] Sky Sports 2 [/B][/I][/COLOR]
+rtmp://178.18.31.61:443/liverepeater playpath=191884 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Sky Sports 3 HD" tvg-logo="skysports3.png" group-title="SPORTS",[COLOR goldenrod][I][B] Sky Sports 3 [/B][/I][/COLOR]
+rtmpe://46.246.124.22:1935/liveedge swfUrl=http://hdcast.org/eplayer.swf live=1 pageUrl=http://www.hdcast.org/embedlive4.php?u=sskys3&vw=650&vh=470&domain=cricbox.tv/amine1313dz token=Fo5_n0w?U.rA6l3-70w47ch playpath=sskys3 live=true
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Sky Sports 3 HD" tvg-logo="skysports3.png" group-title="SPORTS",[COLOR goldenrod][I][B] Sky Sports 3 [/B][/I][/COLOR]
+rtmpe://46.246.124.22:1935/liveedge playpath=sskys3 token=Fo5_n0w?U.rA6l3-70w47ch timeout=10 pageUrl=http://www.hdcast.org/ live=true
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Sky Sports 4" tvg-logo="skysports4.png" group-title="SPORTS",[COLOR goldenrod][I][B] Sky Sports 4 [/B][/I][/COLOR]
+http://50.7.69.186:1935/edge/_definst_/21ajqprn56aebp3/chunklist_w442557998.m3u8?wowzasessionid=1419879754 timeout=10
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-logo="skysports4.png" tvg-id="Sky Sports 4" group-title="SPORTS",[COLOR goldenrod][I][B] Sky Sports 4 [/B][/I][/COLOR]
+rtmp://89.248.172.159:443/liverepeater playpath=16 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=30&width=700&height=450 token=#atd%#$ZH
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Sky Sports 5" tvg-logo="skysports5.png" group-title="U.S.A",[COLOR goldenrod][I][B] Sky Sports 5 [/B][/I][/COLOR]
+rtmp://178.18.31.55:443/liverepeater playpath=191330 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/stream.php?id=191327&width=650&height=480 token=#atd%#$ZH live=1
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Sky Sports 5" tvg-logo="skysports5.png" group-title="U.S.A",[COLOR goldenrod][I][B] Sky Sports 5 [/B][/I][/COLOR]
+rtmpe://46.246.124.22:1935/liveedge playpath=sskys5 swfUrl=http://player.hdcast.org/_.swf pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="BT Sport 1" tvg-logo="bts1.png" group-title="SPORTS",[B][I][COLOR goldenrod] BT Sports 1 [/B][/I][/COLOR]
+rtmp://178.18.31.55:443/liverepeater playpath=191331 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/stream.php?id=191327&width=650&height=480 token=#atd%#$ZH live=1
+ 
+#EXTINF:-1 tvg-shift=-1  tvg-id="BT Sport 2" tvg-logo="bts2.png" group-title="SPORTS",[B][I][COLOR goldenrod] BT Sports 2 [/B][/I][/COLOR]
+rtmp://178.18.31.55:443/liverepeater playpath=191332 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/stream.php?id=191327&width=650&height=480 token=#atd%#$ZH live=1
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="ESPN America" tvg-logo="espnamerica.png" group-title="SPORTS",[B][I][COLOR goldenrod] ESPN America [/COLOR][/B][/I]
+rtmp://195.154.242.42:80/liverepeater playpath=302257 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://goodcast.co/streamn.php?id=302571&width=620&height=470 token=Fo5_n0w?U.rA6l3-70w47ch
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="ESPN UK" tvg-logo="espnuk.png" group-title="SPORTS",[B][I][COLOR goldenrod] ESPN UK [/B][/I][/COLOR]
+rtmp://195.154.242.42:80/liverepeater playpath=302541 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://goodcast.co/streamn.php?id=302571&width=620&height=470 token=Fo5_n0w?U.rA6l3-70w47ch
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="BoxNation" tvg-logo="boxnation.png" group-title="SPORTS",[B][I][COLOR goldenrod] Box Nation [/B][/I][/COLOR]
+http://llnw.live.simplestream.com/coder1/coder.channels.channel5/hls/3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Motors TV" tvg-logo="motortv.png" group-title="SPORTS",[COLOR goldenrod][I][B] Motors TV [/B][/I][/COLOR]
+http://195.154.71.207:8080/callback23/motorstv.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-logo="tsn1.png" tvg-id="TSN1" group-title="SPORTS",[COLOR goldenrod][I][B] TSN 1 [/B][/I][/COLOR]
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-logo="tsn2.png" tvg-id="TSN2" group-title="SPORTS",[COLOR goldenrod][I][B] TSN 2 [/B][/I][/COLOR]
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-logo="tsn3.png" tvg-id="TSN3" group-title="SPORTS",[COLOR goldenrod][I][B] TSN 3 [/B][/I][/COLOR]
+http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-logo="tsn4.png" tvg-id="TSN4" group-title="SPORTS",[COLOR goldenrod][I][B] TSN 4 [/B][/I][/COLOR]
+http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-logo="tsn5.png" tvg-id="TSN5" group-title="SPORTS",[COLOR goldenrod][I][B] TSN 5 [/B][/I][/COLOR]
+http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-logo="skysportsworldcup.png" tvg-id="Sky Sports World Cup HD" group-title="SPORTS",[COLOR goldenrod][I][B] Sky Sports World Cup [/B][/I][/COLOR]
+rtmp://195.154.242.42:80/liverepeater playpath=302538 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://goodcast.co/streamn.php?id=302571&width=620&height=470 token=Fo5_n0w?U.rA6l3-70w47ch
+ 
+#EXTINF:-1 tvg-logo="wwe.png" tvg-name="" group-title="U.S.A",[COLOR goldenrod][I][B] WWE Tv [/B][/I][/COLOR]'
+rtmp://178.18.31.61:443/liverepeater playpath=191918 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
+ 
+#EXTINF:-1, [COLOR red][B]  --------- ENGLISH-------  [/B][/COLOR]
+http://llnw.live.simplestream.com/coder1/coder.channels.channel2/hls/1/playlist.m3u8
+#EXTINF:-1, [COLOR maroon][B] -------- Gloabal TV -------[/B][/COLOR]
+http://llnw.live.simplestream.com/coder1/coder.channels.channel2/hls/1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="history.png" tvg-id="History +1" group-title="ENTERTAINMENT",[COLOR steelblue][I][B] History EU [/B][/I][/COLOR]
+http://edge-sf-2.iptv.bulsat.com:1935/tv7/smil:history_channel_hd_mobile.smil/playlist.m3u8?bulsatCustomParameter=11076_11076_NULL_pcweb&bulsatendtime=1429790194&bulsatstarttime=1429771894&bulsathash=6mA1YLEkAWRXKDnAKu9PCbjZIryGK4QWCu0LeWez7G4=
+ 
+#EXTINF:-1 tvg-logo="STAR_Movies.png" group-title="ENTERTAINMENT",[B][I][COLOR steelblue] Star Movies HD [/B][/I][/COLOR]
+http://113.160.49.34/lives/origin03/moviehd.isml/moviehd-2096k.m3u8
+ 
+#EXTINF:-1 tvg-id="HBO HD(IN)" tvg-logo="HBO.png" group-title="ENTERTAINMENT",[B][I][COLOR steelblue] HBO HD [/B][/I][/COLOR]
+http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
+ 
+#EXTINF:-1 tvg-id="AXN(Portugal)" tvg-logo="AXN.png" group-title="ENTERTAINMENT",[B][I][COLOR steelblue] AXN HD [/B][/I][/COLOR]
+http://113.160.49.34/lives/origin03/axnhd.isml/axnhd-2096k.m3u8
+ 
+#EXTINF:-1 tvg-id="(Eastern)Cinemax" tvg-logo="Cinemax logo .png" group-title="ENTERTAINMENT",[B][I][COLOR steelblue] CINEMAX [/B][/I][/COLOR]
+http://113.160.49.34/lives/origin03/cinemaxsd.isml/cinemaxsd-1096k.m3u8
+ 
+#EXTINF:-1 tvg-id="Discovery.pt" tvg-logo="discoverypt.png" group-title="ENTERTAINMENT",[B][I][COLOR steelblue] DISCOVERY [/B][/I][/COLOR]
+rtmp://50.22.223.42/youcloud/ playpath=discovery5e1r?keys=QNM48GIqRNlW0XPfEeW52A&keyt=1424715176 swfUrl=http://cdn.youcloud.tv/jwplayer.flash.swf live=1 swfVfy=1 pageUrl=http://youcloud.tv/player?streamname=discovery5e1r&width=555&height=435 timeout=15
+ 
+ #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="History.png" tvg-id="history",[B][I][COLOR steelblue] Historia [/B][/I][/COLOR]
+rtmp://173.193.216.172/youcloud/historia8wdy?keys=nYPDs127dA3aVrXMcQEVvA&keyt=1426677769 swfUrl=http://cdn.youcloud.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://youcloud.tv/player?streamname=historia8wdy
+ 
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="axnwh.png" tvg-id="",[B][I][COLOR steelblue] AXN White [/B][/I][/COLOR]
+rtmp://184.173.146.4/youcloud/axnblank2er?keys=hxxhuW5zTFXNHJmTO0uL0A&keyt=1426418995 swfUrl=http://cdn.youcloud.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://youcloud.tv/player?streamname=axnblank2er
+ 
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="FOX.png" tvg-id="FOXHD.pt",[B][I][COLOR steelblue] FOX [/B][/I][/COLOR]
+rtmp://159.253.149.21/youcloud/fox20disx?keys=4tRxE_VGe0ukFwujvlov8w&keyt=1426418998 swfUrl=http://cdn.youcloud.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://youcloud.tv/player?streamname=fox20disx
+ 
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="holhd.png" tvg-id="HOLLYHD.pt",[B][I][COLOR steelblue] Hollywood [/B][/I][/COLOR]
+rtmp://149.255.39.2/youcloud/hollywood93u?keys=epbXxbQNw4ZxBDNQO35IKQ&keyt=1424695544 swfUrl=http://cdn.youcloud.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://youcloud.tv/player?streamname=hollywood93u
+ 
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="syfy.jpg" tvg-id="SYFYHD.pt",[B][I][COLOR steelblue] Syfy [/B][/I][/COLOR]
+rtmp://50.22.223.42/youcloud/syfiles934r?keys=HR5VwoZWiEObWBlZtAWIjA&keyt=1426419012 swfUrl=http://cdn.youcloud.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://youcloud.tv/player?streamname=syfiles934r
+ 
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-logo="sicm-ver3.png" group-title="ENTERTAINMENT”,[B][I][COLOR steelblue] SIC MULHER [/B][/I][/COLOR]
+rtmp://50.22.223.47/youcloud/ playpath=sicmulher8f2d?keys=QOrXfhNzLkbvbGrwD7excg&keyt=1423589347 conn=S:OK swfUrl=http://cdn.youcloud.tv/jwplayer.flash.swf live=true pageUrl=pageUrl=http://youcloud.tv/player?streamname=sicmulher8f2d&width=555&height=435 timeout=15
+ 
+#EXTINF:-1 tvg-logo=".png" tvg-name="" group-title="U.S.A",[COLOR steelblue][I][B] HBO [/B][/I][/COLOR]
+rtmpe://l.xuscacamusca.se/r/ playPath=foxcrime82fy769 swfUrl=http://xuscacamusca.se/ODEwZjJiMjY0ODNiNTEyMGJhNjRmYTI0/jwplayer.flash.swf live=true timeout=15 swfVfy=1 pageUrl=http://mybeststream.xyz/?id=27031&PageSpeed=noscript token=#atd%#$ZH
+ 
+#EXTINF:-1 tvg-logo="axn.png" tvg-id="AXN(Portugal)" group-title="U.S.A",[COLOR steelblue][I][B] AXN [/B][/I][/COLOR]
+rtmp://37.220.36.71:443/liverepeater playpath=23699 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://filotv.pw/ token=#atd%#$ZH live=N.SAT
+ 
+#EXTINF:-1,[COLOR red][B] ---------| MUSIC |---------[/B][/COLOR]
+http://120.151.240.15:9981/stream/channelid/18?ticket=38D5DB9D263B9EC33121A4F9FEE3BDE2392D5810
+#EXTINF:-1,[COLOR maroon][B] -----Updated 18.04.15 ------- [/B][/COLOR]
+http://120.151.240.15:9981/stream/channelid/19?ticket=38D5DB9D263B9EC33121A4F9FEE3BDE2392D5810
+ 
+#EXTINF:-1 tvg-id="now International HD" tvg-logo="nowmusic.png" group-title="MUSIC",[COLOR teal][B][I] Now Thats What I Call Music Channel [/B][/I][/COLOR]
+http://llnw.live.simplestream.com/coder6/coder.channels.channel5/hls/3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Capital TV" tvg-logo="capital.png" group-title="MUSIC",[COLOR teal][B][I] Capital TV [/B][/I][/COLOR]
+http://llnw.live.simplestream.com/coder7/coder.channels.channel8/hls/3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Channel AKA" group-title="MUSIC" tvg-logo="aka.png",[COLOR teal][B][I] Channel AKA [/B][/I][/COLOR]
+http://llnw.live.simplestream.com/coder6/coder.channels.channel2/hls/3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Clubland TV" tvg-logo="CLUBLAND.png" group-title="MUSIC",[COLOR teal][B][I] Clubland TV [/B][/I][/COLOR]
+http://llnw.live.simplestream.com/coder2/coder.channels.channel11/hls/3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="MTV Live" tvg-logo="MTV.png" group-title="MUSIC", [COLOR teal][B][I] MTV Live  [/B][/I][/COLOR]
+http://200.76.77.237/LIVE/H01/CANAL726/PROFILE02.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Tiny Pop" tvg-logo="tinypop.png" group-title="MUSIC",[COLOR teal][B][I] Tiny POP [/B][/I][/COLOR]
+http://llnw.live.simplestream.com/coder4/coder.channels.channel12/hls/3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Pop" tvg-logo="pop.png" group-title="MUSIC",[COLOR teal][B][I] POP [/B][/I][/COLOR]
+http://llnw.live.simplestream.com/coder4/coder.channels.channel14/hls/3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="MTV Live" tvg-logo="mtvlive.png" group-title="MUSIC",[COLOR teal][B][I] MTV Live HD [/B][/I][/COLOR]
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE02.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="MTV HITS" tvg-logo="mtvhits.png" group-title="MUSIC",[COLOR teal][B][I] MTV Hits SD [/B][/I][/COLOR]
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/bw480000/playlist.m3u8?utcstart=1425964607.5274911
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="MTV DANCE" tvg-logo="mtvdance.png" group-title="MUSIC",[COLOR teal][B][I] MTV Dance HD [/B][/I][/COLOR]
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/bw480000/playlist.m3u8?utcstart=1425964714.5193388
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="MTV ROCKS" tvg-logo="mtvrock.png" group-title="MUSIC",[COLOR teal][B][I] MTV Rocks HD [/B][/I][/COLOR]
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/bw480000/playlist.m3u8?utcstart=1425964738.5959589
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="4Music" tvg-logo="4MUSIC.png" group-title="MUSIC",[COLOR teal][B][I] 4Music HD [/B][/I][/COLOR]
+http://llnw.live.simplestream.com/coder9/coder.channels.channel6/hls/3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Heart TV" tvg-logo="HEART.png" group-title="MUSIC",[COLOR teal][B][I] Heart TV [/B][/I][/COLOR]
+http://llnw.live.simplestream.com/coder7/coder.channels.channel10/hls/3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Pop" tvg-logo="pop.png" group-title="MUSIC",[COLOR teal][B][I] Planet POP [/B][/I][/COLOR]
+http://llnw.live.simplestream.com/coder8/coder.channels.channel11/hls/3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Heat" tvg-logo="heat.png" group-title="MUSIC",[COLOR teal][B][I] Heat TV [/B][/I][/COLOR]
+http://llnw.live.simplestream.com/coder9/coder.channels.channel8/hls/3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Kiss" tvg-logo="kiss.png" group-title="MUSIC",[COLOR teal][B][I] Kiss TV  [/B][/I][/COLOR]
+http://llnw.live.simplestream.com/coder9/coder.channels.channel14/hls/3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Kerrang!" tvg-logo="kerrang.png" group-title="MUSIC",[COLOR teal][B][I] KERRANG TV [/B][/I][/COLOR]
+http://llnw.live.simplestream.com/coder11/coder.channels.channel4/hls/3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Magic" tvg-logo="magic.png" group-title="MUSIC",[COLOR teal][B][I] Magic.TV [/B][/I][/COLOR]
+http://llnw.live.simplestream.com/coder11/coder.channels.channel2/hls/3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Smash Hits!" tvg-logo="smashhits.png" group-title="MUSIC",[COLOR teal][B][I]Smash Hits! [/B][/I][/COLOR]
+http://llnw.live.simplestream.com/coder9/coder.channels.channel2/hls/3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="The Box" tvg-logo="thebox.png" group-title="MUSIC",[COLOR teal][B][I] The Box [/B][/I][/COLOR]
+http://llnw.live.simplestream.com/coder9/coder.channels.channel12/hls/3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="VH1(UK)" tvg-logo="VH1.png" group-title="MUSIC",[COLOR teal][B][I] VH1 UK [/B][/I][/COLOR]
+rtmp://edge03-03.az.myvideo.az/dvrh264/vh1/ playpath=mp4:vh1 swfUrl=http://www.myvideo.az/stml/dvr/dvrH.swf?v=1.2 live=1 pageUrl=http://www.myvideo.az/r.ates/
+ 
+#EXTINF:-1 tvg-shift=-1 tvg-id="DK VH1" tvg-logo="VH1.png" group-title="MUSIC",[COLOR teal][B][I] VH1(ESP)  [/B][/I][/COLOR]
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE02.m3u8
+ 
+#EXTINF:-1 tvg-id="Telehit" tvg-logo="telehit.png" group-title="MUSIC",[COLOR teal][B][I] TELEHIT [/B][/I][/COLOR]
+http://200.76.77.237/LIVE/H01/CANAL702/PROFILE02.m3u8?
+ 
+#EXTINF:-1 tvg-name="" tvg-logo="Bandmax.png" group-title="MUSIC",[COLOR teal][B][I] Bandmax HD [/B][/I][/COLOR]
+http://200.76.77.237/LIVE/H01/CANAL732/PROFILE02.m3u8?
+ 
+#EXTINF:-1,[COLOR red][B] ---------|Cartoons|-------- [/B][/COLOR]
+mms://195.90.118.87/uke_5
+
+#EXTINF:-1,[COLOR maroon] ------- Online @ 18.04.15 ------[/COLOR]                
+rtsp://122.160.220.49:1935/live/TLC_HVGA.sdp
+ 
+#EXTINF:-1,Looney Toones
+http://167.114.65.74/hls/lt.m3u8
+
+#EXTINF:-1, Tom & Jerry
+http://66.90.111.66:1935/ctv/tom/waldo_paes.m3u8?
+
+#EXTINF:1, Tom & Jerry HQ
+http://goo.gl/K4vEBF
+
+#EXTINF:-1,Nickelodeon
+rtmp://195.154.242.42:80/liverepeater playpath=303365 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://goodcast.co.uk/stream.php?id=303365&width=620&height=470&stretching= token=Fo5_n0w?U.rA6l3-70w47ch
+ 
+#EXTINF:-1 tvg-name="" tvg-logo=".png group-title="t&c", [COLOR hotpink][B] DONATIONS ARE WELCOMED & EVERY ONE WILL BE REWARDED SPECIAL CHANNELS PACKAGE :) [/COLOR][/B]
+rtmpe://46.246.124.22:1935/liveedge playpath=discoo pageUrl=http://www.hdcast.org/embedlive4.php?u=discoo&vw=620&vh=470&domain=usachannels.tv token=Fo5_n0w?U.rA6l3-70w47ch
+
+#EXTINF: -1 tvg-name="" tvg-logo=".png group-title="t&c", [COLOR green][B]Please Respect The Creator & Contributors & KEEP This FREE! And *{DON'T Redistribute This LIST}* [/COLOR][/B]
+rtmpe://46.246.124.22:1935/liveedge playpath=nnc pageUrl=http://www.hdcast.org/embedlive4.php?u=discoo&vw=620&vh=470&domain=usachannels.tv token=Fo5_n0w?U.rA6l3-70w47ch
+
+#EXTINF:-1 tvg-name="" tvg-logo=".png group-title="t&c",[COLOR brown][B] -Thanks T0 Contributors & ALL @ Iptv m3u Lists and SHARING [/COLOR][/B]
+rtmpe://46.246.124.22:1935/liveedge playpath=nicks pageUrl=http://www.hdcast.org/embedlive4.php?u=discoo&vw=620&vh=470&domain=usachannels.tv token=Fo5_n0w?U.rA6l3-70w47ch
+
+
+
